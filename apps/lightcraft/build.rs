@@ -15,9 +15,9 @@ fn main() {
     }
     let mut res = winresource::WindowsResource::new();
     res.set_icon("../../assets/club/club.ico")
-        .set("ProductName", "PhotoLab Club Briançonnais")
-        .set("ProductVersion", "0.5.0")
-        .set("FileVersion", "0.5.0")
+        .set("ProductName", "Laboratoire du Photo Club Briançonnais")
+        .set("ProductVersion", "0.5.1")
+        .set("FileVersion", "0.5.1")
         .set("FileDescription", "PhotoLab Club - bibliotheque photo et retouche IA")
         .set("LegalCopyright", "Copyright (c) the LightCraft authors. MIT OR Apache-2.0.")
         .set("OriginalFilename", "lightcraft.exe")

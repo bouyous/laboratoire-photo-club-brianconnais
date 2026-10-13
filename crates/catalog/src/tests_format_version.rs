@@ -1,3 +1,4 @@
+// Modified 2026-10-13: club naming update 0.5.1; serialization and library compatibility preserved.
 //! Issue #102: catalog format versions. Older formats load and are upgraded; a newer format is
 //! refused with a clear error and left untouched (never read in part, truncated or set aside).
 
@@ -76,7 +77,7 @@ fn assert_refused_untouched(m: &MemStore) {
     let e = Journal::open(Box::new(m.clone())).err().expect("refused");
     assert!(matches!(e, CatalogError::Newer(_)), "{e:?}");
     let msg = e.to_string();
-    assert!(msg.contains("newer version of LightCraft") && msg.contains("left unchanged"), "{msg}");
+    assert!(msg.contains("newer version of Laboratoire du Photo Club Briançonnais") && msg.contains("left unchanged"), "{msg}");
     assert_eq!(*m.files.lock().unwrap(), before, "nothing modified, nothing renamed");
 }
 

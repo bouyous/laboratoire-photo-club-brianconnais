@@ -4,17 +4,17 @@
 /// The app's id in ArtCraft URLs.
 pub const APP: &str = "lightcraft";
 /// The ArtCraft community Discord.
-pub const DISCORD: &str = "https://github.com/bouyous/photolab-club-brianconnais/discussions";
+pub const DISCORD: &str = "https://github.com/bouyous/laboratoire-photo-club-brianconnais/discussions";
 /// The ArtCraft website.
 pub const WEBSITE: &str = "https://github.com/storytold/lightcraft";
 /// This app's page on the ArtCraft website.
-pub const APP_PAGE: &str = "https://github.com/bouyous/photolab-club-brianconnais/releases";
+pub const APP_PAGE: &str = "https://github.com/bouyous/laboratoire-photo-club-brianconnais/releases";
 /// This app's source repository.
-pub const GITHUB: &str = "https://github.com/bouyous/photolab-club-brianconnais";
+pub const GITHUB: &str = "https://github.com/bouyous/laboratoire-photo-club-brianconnais";
 
 /// (UI command id, menu label, URL) for each link, in Help-menu order.
 /// The user documentation (docs/ in the repository).
-pub const HELP: &str = "https://github.com/bouyous/photolab-club-brianconnais/tree/main/docs";
+pub const HELP: &str = "https://github.com/bouyous/laboratoire-photo-club-brianconnais/tree/main/docs";
 
 pub const LINKS: &[(&str, &str, &str)] = &[
     ("app.help", "Aide PhotoLab Club", HELP),
@@ -26,7 +26,7 @@ pub const LINKS: &[(&str, &str, &str)] = &[
 ];
 
 /// Where feedback and bug reports go.
-pub const FEEDBACK: &str = "https://github.com/bouyous/photolab-club-brianconnais/issues/new";
+pub const FEEDBACK: &str = "https://github.com/bouyous/laboratoire-photo-club-brianconnais/issues/new";
 
 /// The URL behind a link command id.
 pub fn url_of(cmd: &str) -> Option<&'static str> {
@@ -52,6 +52,6 @@ mod tests {
             assert_eq!(url_of(id), Some(*url));
         }
         assert!(APP_PAGE.ends_with("/releases"));
-        assert!(GITHUB.ends_with("/photolab-club-brianconnais"));
+        assert!(GITHUB.ends_with("/laboratoire-photo-club-brianconnais"));
     }
 }

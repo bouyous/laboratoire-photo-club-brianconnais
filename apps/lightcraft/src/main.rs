@@ -100,8 +100,8 @@ fn gpu_crash_check() -> Option<String> {
 
 fn gpu_crash_notice(what: &str) -> String {
     format!(
-        "LightCraft closed unexpectedly while starting the GPU last time ({what}), so GPU rendering is now off and photos render on the CPU. \
-         To try the GPU again, turn on Settings ▸ Performance ▸ Use the GPU for rendering; to try another graphics backend, start LightCraft with \
+        "Laboratoire du Photo Club Briançonnais closed unexpectedly while starting the GPU last time ({what}), so GPU rendering is now off and photos render on the CPU. \
+         To try the GPU again, turn on Settings ▸ Performance ▸ Use the GPU for rendering; to try another graphics backend, start the application with \
          LIGHTCRAFT_GPU_BACKEND=dx12, vulkan or off (see docs/gpu-pipeline.md → Troubleshooting)."
     )
 }
@@ -220,7 +220,7 @@ impl PrefsWriter {
             Err(e) => {
                 eprintln!("lightcraft: {e}");
                 if !self.failing {
-                    app.notices.push(format!("{e}. LightCraft keeps trying."));
+                    app.notices.push(format!("{e}. Le Laboratoire réessaie automatiquement."));
                 }
                 self.failing = true;
                 // don't retry every frame
@@ -461,7 +461,7 @@ fn main() -> eframe::Result {
                 seed_demo = true;
             }
             "--version" => {
-                println!("lightcraft {}", env!("CARGO_PKG_VERSION"));
+                println!("Laboratoire du Photo Club Briançonnais 0.5.1 (base LightCraft {})", env!("CARGO_PKG_VERSION"));
                 return Ok(());
             }
             "-h" | "--help" => {
@@ -492,7 +492,7 @@ fn main() -> eframe::Result {
     lightcraft_engine::gpu::set_enabled(gpu_on);
     let options = eframe::NativeOptions {
         viewport: egui::ViewportBuilder::default()
-            .with_title("PhotoLab Club Briançonnais")
+            .with_title("Laboratoire du Photo Club Briançonnais")
             .with_inner_size([1600.0, 1000.0])
             .with_min_inner_size([900.0, 560.0])
             .with_drag_and_drop(true)
@@ -506,7 +506,7 @@ fn main() -> eframe::Result {
         ..Default::default()
     };
     eframe::run_native(
-        "PhotoLab Club Briançonnais",
+        "Laboratoire du Photo Club Briançonnais",
         options,
         Box::new(move |cc| {
             let (mut session, problem) = open_session(in_memory, library_dir, seed_demo && files.is_empty());

@@ -1,0 +1,23 @@
+{
+  "version": "0.5.1",
+  "name": "Laboratoire du Photo Club Briançonnais",
+  "oldCatalogVersion": "0.5.0",
+  "existingPhotosPreserved": 5,
+  "ratingsAndAlbumsPreserved": true,
+  "developSettingsPreserved": true,
+  "savedLibraryLocationRestored": true,
+  "frenchPreferencePreserved": true,
+  "lockMessageUsesNewName": true,
+  "sourceAndModelLogicUnchanged": true,
+  "date": "2026-10-13",
+  "nativeTestsPassed": 1073,
+  "nativeChecks": "All 7 passed: fmt, clippy, tests, parity, layers, assets, wasm",
+  "installer": {
+    "version": "0.5.1",
+    "installerUpgrades050": true,
+    "registryName": "Laboratoire du Photo Club Briançonnais 0.5.1",
+    "filesVerified": 1290
+  },
+  "scope": "One Windows x64 computer; existing catalog and data paths preserved",
+  "installerSha256": "4f8942ca0268e744d7bbf91caa9aa54b9202daf4da75c071601aa494d483d4f3"
+}

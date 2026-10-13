@@ -100,7 +100,7 @@ pub fn show(app: &mut LightcraftApp, ctx: &egui::Context) {
         Dialog::Settings { .. } => "Settings",
         Dialog::ConfirmDelete { .. } => "Delete Photos",
         Dialog::SamModel { .. } => "Download the SAM 3 Model?",
-        Dialog::About => "À propos de PhotoLab Club",
+        Dialog::About => "À propos du Laboratoire du Photo Club Briançonnais",
         Dialog::Shortcuts => "Keyboard Shortcuts",
     }
     .to_string();
@@ -739,8 +739,8 @@ pub fn show(app: &mut LightcraftApp, ctx: &egui::Context) {
                             );
                             let logo = ui.ctx().load_texture("club-logo", image, egui::TextureOptions::LINEAR);
                             ui.image((logo.id(), egui::vec2(96.0, 96.0)));
-                            ui.label(egui::RichText::new("PhotoLab Club Briançonnais").font(t.semibold(20.0)).color(t.text));
-                            ui.label("Version club 0.5.0 — Windows 64 bits");
+                            ui.label(egui::RichText::new("Laboratoire du Photo Club Briançonnais").font(t.semibold(20.0)).color(t.text));
+                            ui.label("Version club 0.5.1 — Windows 64 bits");
                             ui.label("Version indépendante basée sur LightCraft 0.4.0, par l’équipe ArtCraft et ses contributeurs.");
                             ui.label("Interface et développement Rust ; moteur IA PhotoLabPro dans un processus local séparé.");
                             ui.label("Code : MIT ou Apache-2.0 ; segment : Apache-2.0. Polices : OFL. Voir les licences installées.");

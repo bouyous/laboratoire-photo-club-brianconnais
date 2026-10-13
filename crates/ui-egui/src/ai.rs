@@ -382,7 +382,7 @@ fn run_worker(config: &Runtime, path: &Path, job: &Value, progress: &Arc<Mutex<(
 
 pub fn show(app: &mut LightcraftApp, ui: &mut egui::Ui, photo: PhotoId) {
     sync_geometry(app, photo);
-    crate::panels::right::header(ui, "IA — PhotoLab Club");
+    crate::panels::right::header(ui, "IA — Laboratoire du club");
     ui.add_space(8.0);
     ui.label("Traitement local • nouvel exemplaire • original conservé");
     ui.add_space(12.0);

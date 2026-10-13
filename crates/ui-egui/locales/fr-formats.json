@@ -91,7 +91,7 @@
   "{name} Off": "{name} désactivé",
   "{name} On": "{name} activé",
   "{name} — double-click to reset it": "{name} — double-cliquez pour réinitialiser",
-  "{n} change{} saved in memory but not written to disk: {e}\nLightCraft retries automatically; quitting now would lose {}.": "Modification{} en mémoire, non écrites sur le disque : {n} ({e})\nLightCraft réessaie automatiquement ; quitter maintenant entraînerait la perte de {}.",
+  "{n} change{} saved in memory but not written to disk: {e}\nLightCraft retries automatically; quitting now would lose {}.": "Modification{} en mémoire, non écrites sur le disque : {n} ({e})\nLaboratoire du Photo Club Briançonnais réessaie automatiquement ; quitter maintenant entraînerait la perte de {}.",
   "{n} found · {sel} selected": "{n} trouvées · {sel} sélectionnées",
   "{n} photos": "{n} photos",
   "{n} photos in {} are hidden by the filters above": "{n} photos dans {} sont masquées par les filtres ci-dessus",

@@ -1,4 +1,4 @@
-# PhotoLab Club Briançonnais
+# Laboratoire du Photo Club Briançonnais
 
 ![Logo du club](assets/club/icon-256.png)
 
@@ -8,8 +8,8 @@ avec les traitements locaux de PhotoLabPro. Aucun lien de parrainage avec le pro
 
 ## Télécharger et installer
 
-[Télécharger la dernière version Windows](https://github.com/bouyous/photolab-club-brianconnais/releases/latest).
-Ouvrir `PhotoLab-Club-0.5.0-Windows-x64-Setup.exe`. Installation pour l’utilisateur courant,
+[Télécharger la dernière version Windows](https://github.com/bouyous/laboratoire-photo-club-brianconnais/releases/latest).
+Ouvrir `Laboratoire-Photo-Club-0.5.1-Windows-x64-Setup.exe`. Installation pour l’utilisateur courant,
 sans droits administrateur, avec raccourci et désinstalleur. Python, moteur IA et modèles sont inclus.
 Les traitements IA fonctionnent hors ligne. Aucun abonnement ni compte requis pour les traitements.
 

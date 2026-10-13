@@ -1,6 +1,6 @@
 # Recompiler la distribution Windows du club
 
-Les sources Rust restent en version de base 0.4.0 ; la distribution club est 0.5.0.
+Les sources Rust restent en version de base 0.4.0 ; la distribution club est 0.5.1.
 Windows 10/11 x64, Rust (MSVC), Visual Studio Build Tools C++, Python 3.12 x64,
 Git et Inno Setup 6.7.3 sont nécessaires **pour construire**, pas pour utiliser l’application.
 

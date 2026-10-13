@@ -1,3 +1,4 @@
+// Modified 2026-10-13: club name in library error dialogs; legacy catalog paths unchanged.
 //! The library couldn't be opened at launch (issue #100): never a silent in-memory session. A
 //! blocking window says which library and why, and offers Try Again, Choose Another Library…,
 //! Continue Without Saving and Quit. Continuing shows a banner under the top bar for as long as the
@@ -107,9 +108,11 @@ pub fn show(app: &mut LightcraftApp, ctx: &egui::Context) {
             ui.set_width(440.0);
             ui.spacing_mut().item_spacing.y = 8.0;
             if problem.path.is_empty() {
-                ui.label(RichText::new(crate::i18n::tr("LightCraft couldn't find where to keep your library.")).color(t.text));
+                ui.label(
+                    RichText::new(crate::i18n::tr("Laboratoire du Photo Club Briançonnais couldn't find where to keep your library.")).color(t.text),
+                );
             } else {
-                ui.label(RichText::new(crate::i18n::tr("LightCraft couldn't open the library at")).color(t.text_label));
+                ui.label(RichText::new(crate::i18n::tr("Laboratoire du Photo Club Briançonnais couldn't open the library at")).color(t.text_label));
                 ui.label(RichText::new(&problem.path).font(t.semibold(12.5)).color(t.text));
             }
             ui.add(egui::Label::new(RichText::new(&problem.error).color(t.caution)).wrap());

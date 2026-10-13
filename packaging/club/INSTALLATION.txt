@@ -1,4 +1,4 @@
-﻿PhotoLab Club Briançonnais 0.5.0 — préproduction
+Laboratoire du Photo Club Briançonnais 0.5.1 — préproduction
 
 Windows 10/11 64 bits. Python, moteur IA et modèles inclus ; traitements locaux hors ligne.
 Au moins 8 Go de RAM recommandés, 16 Go pour l’IA ; l’affichage requiert un pilote DirectX 12.

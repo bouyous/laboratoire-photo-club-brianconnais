@@ -47,7 +47,7 @@ pub const UI_COMMANDS: &[UiCommand] = &[
     ("dust.select", "Sélectionner une proposition de poussière", None, ""),
     ("dust.apply", "Corriger les poussières sélectionnées", None, ""),
     ("dust.clear", "Fermer les propositions de poussière", None, ""),
-    ("panel.ai", "IA — PhotoLab Club", None, "Window"),
+    ("panel.ai", "IA — Laboratoire du club", None, "Window"),
     ("ai.denoise", "Réduire le bruit avec PhotoLab", None, ""),
     ("ai.inpaint", "Supprimer avec PhotoLab IA", None, ""),
     ("ai.cancel", "Annuler le traitement IA", None, ""),

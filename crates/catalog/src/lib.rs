@@ -1,3 +1,4 @@
+// Modified 2026-10-13: club naming update 0.5.1; serialization and library compatibility preserved.
 //! The LightCraft library (catalog).
 //!
 //! State changes only through [`Op`]s. [`Catalog::apply`] returns the inverse op, which gives:
@@ -56,7 +57,9 @@ pub enum CatalogError {
     Io(String),
     /// The library was written by a newer LightCraft (a newer catalog format, or a change this
     /// version doesn't know). Nothing was read into the session and nothing was modified.
-    #[error("this library was written by a newer version of LightCraft ({0}); update LightCraft to open it. The library was left unchanged.")]
+    #[error(
+        "this library was written by a newer version of Laboratoire du Photo Club Briançonnais ({0}); update the application to open it. The library was left unchanged."
+    )]
     Newer(String),
 }
 
