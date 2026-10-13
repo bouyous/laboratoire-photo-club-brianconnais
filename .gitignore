@@ -23,3 +23,6 @@ plan/
 *.onnx.data
 /packaging/club/stage/
 /packaging/club/release/
+
+# Native Mac build environments are generated, never source material
+/.venv-mac/

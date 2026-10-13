@@ -740,7 +740,14 @@ pub fn show(app: &mut LightcraftApp, ctx: &egui::Context) {
                             let logo = ui.ctx().load_texture("club-logo", image, egui::TextureOptions::LINEAR);
                             ui.image((logo.id(), egui::vec2(96.0, 96.0)));
                             ui.label(egui::RichText::new("Laboratoire du Photo Club Briançonnais").font(t.semibold(20.0)).color(t.text));
-                            ui.label("Version club 0.5.1 — Windows 64 bits");
+                            let platform = if cfg!(target_os = "macos") {
+                                if cfg!(target_arch = "aarch64") { "macOS — Apple Silicon" } else { "macOS — Intel" }
+                            } else if cfg!(target_os = "windows") {
+                                "Windows 64 bits"
+                            } else {
+                                "version native"
+                            };
+                            ui.label(format!("Version {} — {platform}", crate::distribution_version()));
                             ui.label("Version indépendante basée sur LightCraft 0.4.0, par l’équipe ArtCraft et ses contributeurs.");
                             ui.label("Interface et développement Rust ; moteur IA PhotoLabPro dans un processus local séparé.");
                             ui.label("Code : MIT ou Apache-2.0 ; segment : Apache-2.0. Polices : OFL. Voir les licences installées.");

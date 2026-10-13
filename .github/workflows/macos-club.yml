@@ -1,0 +1,101 @@
+# Modified 2026-10-13: native Mac builds and real bundled-runtime tests for the club.
+name: Mac du club — Intel et Apple Silicon
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  build:
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - runner: macos-15
+            arch: arm64
+            target: aarch64-apple-darwin
+            minimum: '14.0'
+          - runner: macos-15-intel
+            arch: x86_64
+            target: x86_64-apple-darwin
+            minimum: '13.0'
+    runs-on: ${{ matrix.runner }}
+    timeout-minutes: 120
+    env:
+      CRAFT_FONTS_DIR: ../craft-fonts
+      CRAFT_FONTS_REQUIRED: '1'
+      CARGO_BUILD_JOBS: '2'
+      CARGO_PROFILE_DEV_DEBUG: '0'
+      CARGO_PROFILE_TEST_DEBUG: '0'
+      CARGO_PROFILE_RELEASE_DEBUG: '0'
+      CARGO_INCREMENTAL: '0'
+      MACOSX_DEPLOYMENT_TARGET: ${{ matrix.minimum }}
+      LABORATOIRE_DISTRIBUTION_VERSION: 0.5.2-macos-preview.1
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: laboratoire
+      - uses: actions/checkout@v4
+        with:
+          repository: storytold/craft-fonts
+          ref: 8dcdacd5153e64560d109541a47d806f26f048c0
+          path: craft-fonts
+      - uses: dtolnay/rust-toolchain@stable
+        with:
+          targets: wasm32-unknown-unknown
+          components: clippy, rustfmt
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Construire le moteur Python pour Mac
+        working-directory: laboratoire
+        run: |
+          python -m venv .venv-mac
+          source .venv-mac/bin/activate
+          python packaging/club/macos/install_deps.py ${{ matrix.arch }}
+          bash packaging/club/macos/build-opencv.sh
+          cd ai
+          python -m PyInstaller --noconfirm --clean --distpath dist --workpath build PhotoLabAI.spec
+      - name: Contrôles Rust complets
+        working-directory: laboratoire
+        run: cargo xtask ci
+      - name: Compiler les exécutables Mac
+        working-directory: laboratoire
+        run: cargo build --release --locked -p lightcraft -p lightcraft-cli --target ${{ matrix.target }}
+      - name: Télécharger les poids vérifiés et assembler
+        working-directory: laboratoire
+        run: |
+          source .venv-mac/bin/activate
+          python packaging/club/macos/fetch_models.py dist/models
+          python packaging/club/macos/bundle.py ${{ matrix.arch }} ${{ matrix.target }} ${{ matrix.minimum }}
+      - name: Tester réellement le bundle et le moteur IA
+        working-directory: laboratoire
+        run: |
+          source .venv-mac/bin/activate
+          python packaging/club/macos/smoke.py ${{ matrix.arch }}
+      - name: Créer le DMG et son empreinte
+        working-directory: laboratoire
+        run: |
+          stage="dist/macos/${{ matrix.arch }}"
+          ln -s /Applications "$stage/Applications"
+          dmg="dist/Laboratoire-Photo-Club-0.5.2-preview-macos-${{ matrix.arch }}.dmg"
+          hdiutil create -volname "Laboratoire Photo Club" -srcfolder "$stage" -ov -format UDZO "$dmg"
+          shasum -a 256 "$dmg" > "$dmg.sha256"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: laboratoire-macos-${{ matrix.arch }}
+          path: |
+            laboratoire/dist/*.dmg
+            laboratoire/dist/*.sha256
+            laboratoire/dist/macos/${{ matrix.arch }}/VALIDATION-MAC.json
+            laboratoire/dist/macos/${{ matrix.arch }}/INSTALLATION-MAC.md
+            laboratoire/dist/macos/${{ matrix.arch }}/APERCU-MAC.png
+          retention-days: 14
+      - name: Conserver les diagnostics
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: diagnostics-macos-${{ matrix.arch }}
+          path: |
+            laboratoire/dist/macos-tests/**/*.log
+            laboratoire/ai/build/**/warn-PhotoLabAI.txt
+          retention-days: 7

@@ -13,6 +13,11 @@ pub mod credits;
 pub mod dust_review;
 pub mod export_task;
 pub mod headless;
+
+/// Club distribution version, independent of the upstream engine/catalog version.
+pub fn distribution_version() -> &'static str {
+    option_env!("LABORATOIRE_DISTRIBUTION_VERSION").unwrap_or("0.5.1")
+}
 pub mod i18n;
 pub mod icons;
 pub mod import;

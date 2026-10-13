@@ -111,7 +111,16 @@ fn config_dir() -> Option<std::path::PathBuf> {
     std::env::var_os("PHOTOLAB_CLUB_DATA")
         .map(std::path::PathBuf::from)
         .or_else(|| std::env::var_os("LOCALAPPDATA").map(|p| std::path::PathBuf::from(p).join("PhotoLabClub")))
-        .or_else(|| std::env::var_os("HOME").map(|p| std::path::PathBuf::from(p).join(".local/share/PhotoLabClub")))
+        .or_else(|| {
+            std::env::var_os("HOME").map(|p| {
+                let home = std::path::PathBuf::from(p);
+                if cfg!(target_os = "macos") {
+                    home.join("Library/Application Support/LaboratoirePhotoClub")
+                } else {
+                    home.join(".local/share/PhotoLabClub")
+                }
+            })
+        })
 }
 
 /// The saved UI state and app settings (`<config>/ui.json`), if any, and a warning for the user
@@ -461,7 +470,11 @@ fn main() -> eframe::Result {
                 seed_demo = true;
             }
             "--version" => {
-                println!("Laboratoire du Photo Club Briançonnais 0.5.1 (base LightCraft {})", env!("CARGO_PKG_VERSION"));
+                println!(
+                    "Laboratoire du Photo Club Briançonnais {} (base LightCraft {})",
+                    lightcraft_ui_egui::distribution_version(),
+                    env!("CARGO_PKG_VERSION")
+                );
                 return Ok(());
             }
             "-h" | "--help" => {

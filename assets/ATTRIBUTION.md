@@ -29,4 +29,4 @@ Notes
   `ATTRIBUTION.md`, and are embedded only in builds made with the optional `CRAFT_FONTS_DIR` build input (all official
   releases). Never commit font files here; add new fonts to craft-fonts (craftrules `standards/fonts.md`).
 
-| `assets/club/` | Logo Photo Club Briançonnais et icône dérivée | Fourni par le responsable du projet ; auteur graphique non confirmé | Fichier fourni le 2026-10-13 | Utilisation et distribution dans cette application expressément demandées (`assets/club/LICENSE-logo.txt`) | 2026-10-13 | Redimensionnement proportionnel PNG et conversion ICO ; dessin inchangé |
+| `assets/club/` | Logo Photo Club Briançonnais et icône dérivée | Fourni par le responsable du projet ; auteur graphique non confirmé | Fichier fourni le 2026-10-13 | Utilisation et distribution dans cette application expressément demandées (`assets/club/LICENSE-logo.txt`) | 2026-10-13 | Redimensionnement proportionnel PNG et conversion ICO et ICNS macOS ; dessin inchangé |

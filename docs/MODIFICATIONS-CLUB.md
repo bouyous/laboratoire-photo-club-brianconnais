@@ -76,3 +76,5 @@ Les crédits et licences conservent LightCraft et PhotoLabPro pour identifier l�
 Le format du catalogue, les variables techniques, l’identifiant de l’installateur et les anciens
 répertoires de données restent compatibles : une mise à jour retrouve la bibliothèque existante.
 Les poids des modèles et le moteur IA embarqué sont inchangés.
+
+macOS preparation, 2026-10-13: native Intel/Apple Silicon bundles, isolated CPU AI, standard user support directory, architecture-specific ONNX Runtime and minimal OpenCV built without video codecs. See docs/MACOS-CLUB.md.

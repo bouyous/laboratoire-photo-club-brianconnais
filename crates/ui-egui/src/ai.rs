@@ -33,6 +33,12 @@ pub struct Runtime {
     pub photolab_source: PathBuf,
     pub models: PathBuf,
     pub results: PathBuf,
+    #[serde(default = "default_provider")]
+    pub provider: String,
+}
+
+fn default_provider() -> String {
+    "auto".into()
 }
 
 impl Runtime {
@@ -58,7 +64,16 @@ impl Runtime {
             let home = std::env::var_os("PHOTOLAB_CLUB_DATA")
                 .map(PathBuf::from)
                 .or_else(|| std::env::var_os("LOCALAPPDATA").map(|p| PathBuf::from(p).join("PhotoLabClub")))
-                .or_else(|| std::env::var_os("HOME").map(|p| PathBuf::from(p).join(".local/share/PhotoLabClub")))
+                .or_else(|| {
+                    std::env::var_os("HOME").map(|p| {
+                        let home = PathBuf::from(p);
+                        if cfg!(target_os = "macos") {
+                            home.join("Library/Application Support/LaboratoirePhotoClub")
+                        } else {
+                            home.join(".local/share/PhotoLabClub")
+                        }
+                    })
+                })
                 .ok_or("Dossier personnel introuvable pour enregistrer les résultats IA")?;
             config.results = home.join(&config.results);
         }
@@ -285,7 +300,7 @@ fn start(app: &mut LightcraftApp, operation: &str, p: &Value) -> Result<Value, S
             let mut job = json!({"operation": operation, "input": input, "output": output, "iso": iso,
             "photolab_source": config.photolab_source, "models": config.models, "strength": strength,
             "mode": mode, "strokes": strokes, "progress": dir.join("progress.json"), "result": dir.join("result.json"),
-            "data_dir": dir.join("runtime"), "provider": "auto", "linear": true});
+            "data_dir": dir.join("runtime"), "provider": config.provider, "linear": true});
             set_progress(&progress, 0.05, "Calcul IA local");
             // A native DirectML crash stays in the child process; retry once on CPU.
             let first = run_worker(&config, &job_path, &job, &progress, &cancel);
