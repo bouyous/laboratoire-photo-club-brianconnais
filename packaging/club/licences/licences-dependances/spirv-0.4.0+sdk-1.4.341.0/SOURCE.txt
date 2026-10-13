@@ -1,0 +1,3 @@
+Licence upstream de gfx-rs/rspirv, consultée le 9 octobre 2026.
+https://github.com/gfx-rs/rspirv
+Le paquet de compilation est identifié dans DEPENDANCES.txt.

@@ -1,0 +1,34 @@
+# Modified 2026-10-13: club fork checks; upstream publishing/signing workflows are archived.
+name: Vérifications du club (Windows x64)
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: club-check-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  check:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: lightcraft
+      - uses: actions/checkout@v4
+        with:
+          repository: storytold/craft-fonts
+          ref: 8dcdacd5153e64560d109541a47d806f26f048c0
+          path: craft-fonts
+      - uses: dtolnay/rust-toolchain@stable
+        with:
+          targets: wasm32-unknown-unknown
+          components: rustfmt, clippy
+      - name: Contrôles Rust complets
+        working-directory: lightcraft
+        env:
+          CRAFT_FONTS_DIR: ../craft-fonts
+          CRAFT_FONTS_REQUIRED: '1'
+        run: cargo xtask ci

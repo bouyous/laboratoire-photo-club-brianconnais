@@ -1,0 +1,8 @@
+# Python 3.12 x64; exact versions used for the first Windows club build.
+numpy==2.2.6
+opencv-python-headless==4.12.0.88
+onnxruntime-directml==1.24.4
+tifffile==2026.9.20
+psutil==7.2.2
+pyinstaller==6.22.2
+pyinstaller-hooks-contrib==2026.7

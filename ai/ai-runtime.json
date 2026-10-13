@@ -1,0 +1,5 @@
+{
+  "worker": "ai/PhotoLabAI.exe",
+  "models": "models",
+  "results": "resultats-ia"
+}

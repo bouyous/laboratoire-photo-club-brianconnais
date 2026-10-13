@@ -1,0 +1,25 @@
+*~
+plan/
+/target
+/target-*/
+/dist
+/corpus
+/log
+.DS_Store
+.claude/
+/craft-fonts
+# nix build / nix develop
+/result
+/result-*
+# model weights are never committed (SAM 3: docs/ai-masks.md)
+*.safetensors
+*.safetensors.part
+
+# Club distribution: generated binaries, private data and model weights never in Git
+/ai/build/
+/ai/dist/
+**/__pycache__/
+*.onnx
+*.onnx.data
+/packaging/club/stage/
+/packaging/club/release/

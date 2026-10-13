@@ -1,0 +1,3 @@
+Licence upstream de sarah-quinones/pulp, consultée le 9 octobre 2026.
+https://github.com/sarah-quinones/pulp
+Le paquet de compilation est identifié dans DEPENDANCES.txt.

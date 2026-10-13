@@ -1,0 +1,16 @@
+﻿PhotoLab Club Briançonnais 0.5.0 — préproduction
+
+Windows 10/11 64 bits. Python, moteur IA et modèles inclus ; traitements locaux hors ligne.
+Au moins 8 Go de RAM recommandés, 16 Go pour l’IA ; l’affichage requiert un pilote DirectX 12.
+Installation pour l’utilisateur courant, sans droits administrateur.
+Préférences et résultats : %LOCALAPPDATA%\PhotoLabClub.
+Bibliothèque initiale : %USERPROFILE%\Pictures\PhotoLab Club Library.
+La désinstallation conserve les données personnelles et la bibliothèque.
+
+Ce fork indépendant est basé sur LightCraft 0.4.0 avec des ajouts PhotoLabPro.
+Code MIT ou Apache-2.0, sauf segment Apache-2.0 ; licences tierces dans le dossier licences.
+Logo fourni pour l’application du club ; les marques ArtCraft ont été retirées.
+
+Contrôler les résultats IA et valider manuellement les poussières proposées.
+Certains RAW compressés sont ouverts via leur JPEG intégré. Voir README et validation.
+L’application n’est pas signée commercialement ; vérifier l’origine et le SHA-256 publié.

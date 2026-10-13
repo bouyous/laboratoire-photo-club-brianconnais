@@ -1,0 +1,9 @@
+{
+  "repository": "https://github.com/storytold/lightcraft",
+  "tag": "v0.4.0",
+  "commit": "2472021091a28eb93a05947cfc9b941d3911543a",
+  "distributionVersion": "0.5.0",
+  "clubModifications": "docs/MODIFICATIONS-CLUB.md",
+  "fontsRepository": "https://github.com/storytold/craft-fonts",
+  "fontsCommit": "8dcdacd5153e64560d109541a47d806f26f048c0"
+}

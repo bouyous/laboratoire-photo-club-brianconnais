@@ -1,0 +1,3 @@
+Licence upstream de SSheldon/malloc_buf, consultée le 9 octobre 2026.
+https://github.com/SSheldon/malloc_buf
+Le paquet de compilation est identifié dans DEPENDANCES.txt.

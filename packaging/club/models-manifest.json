@@ -1,0 +1,66 @@
+[
+  {
+    "file": "inpainting_lama_2025jan.onnx",
+    "bytes": 92591623,
+    "sha256": "7df918ac3921d3daf0aae1d219776cf0dc4e4935f035af81841b40adcf74fdf2",
+    "source": "https://huggingface.co/opencv/inpainting_lama/resolve/main/inpainting_lama_2025jan.onnx",
+    "archiveMember": null,
+    "license": "Apache-2.0"
+  },
+  {
+    "file": "nafnet_sidd_w32.onnx",
+    "bytes": 117341957,
+    "sha256": "8b437280db2f9f0ef5c733fa0fec70fc10012a62d19dac24a25b80ec8c529230",
+    "source": "https://github.com/darktable-org/darktable-ai/releases/download/release-5.6.0/denoise-nafnet.dtmodel",
+    "archiveMember": "denoise-nafnet/model.onnx",
+    "license": "MIT (NAFNet) + BasicSR notices"
+  },
+  {
+    "file": "scunet_color_15.onnx",
+    "bytes": 3795638,
+    "sha256": "228dfb72f8b5e23d35c0a92048b46ada31676b34e90a1ced6d221377861ffd6b",
+    "source": "https://huggingface.co/Heliosoph/scunet-onnx/resolve/main/scunet_color_15.onnx",
+    "archiveMember": null,
+    "license": "Apache-2.0"
+  },
+  {
+    "file": "scunet_color_15.onnx.data",
+    "bytes": 73138176,
+    "sha256": "4f2cdeeade2744b8fefdae9d572c8c71d84bc153e4863579c5f8fe680a3b1c74",
+    "source": "https://huggingface.co/Heliosoph/scunet-onnx/resolve/main/scunet_color_15.onnx.data",
+    "archiveMember": null,
+    "license": "Apache-2.0"
+  },
+  {
+    "file": "scunet_color_50.onnx",
+    "bytes": 3795638,
+    "sha256": "691b995af0700809ddf882265de4a68373b2d2af9d4a89daca662b828686229d",
+    "source": "https://huggingface.co/Heliosoph/scunet-onnx/resolve/main/scunet_color_50.onnx",
+    "archiveMember": null,
+    "license": "Apache-2.0"
+  },
+  {
+    "file": "scunet_color_50.onnx.data",
+    "bytes": 73138176,
+    "sha256": "a12e0931304ea43d3367d5f5848099e46fdafe07fd2126ed207ceca02989d446",
+    "source": "https://huggingface.co/Heliosoph/scunet-onnx/resolve/main/scunet_color_50.onnx.data",
+    "archiveMember": null,
+    "license": "Apache-2.0"
+  },
+  {
+    "file": "scunet_color_real_psnr.onnx",
+    "bytes": 3798678,
+    "sha256": "231be201ab413dbc999d7951caa9844846b93a12a40a41e037d6b5888ed4e88c",
+    "source": "https://huggingface.co/Heliosoph/scunet-onnx/resolve/main/scunet_color_real_psnr.onnx",
+    "archiveMember": null,
+    "license": "Apache-2.0"
+  },
+  {
+    "file": "scunet_color_real_psnr.onnx.data",
+    "bytes": 73138176,
+    "sha256": "98825ea1210b641c71e5f052f582c70c49fd44b35387ebe2c034268c17df3feb",
+    "source": "https://huggingface.co/Heliosoph/scunet-onnx/resolve/main/scunet_color_real_psnr.onnx.data",
+    "archiveMember": null,
+    "license": "Apache-2.0"
+  }
+]

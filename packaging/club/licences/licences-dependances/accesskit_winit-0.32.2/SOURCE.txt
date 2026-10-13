@@ -1,0 +1,3 @@
+Licence upstream de AccessKit/accesskit, consultée le 9 octobre 2026.
+https://github.com/AccessKit/accesskit
+Le paquet de compilation est identifié dans DEPENDANCES.txt.

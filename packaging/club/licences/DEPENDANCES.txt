@@ -1,0 +1,598 @@
+ab_glyph-0.2.32: Apache-2.0 | https://github.com/alexheretic/ab-glyph | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+ab_glyph_rasterizer-0.1.10: Apache-2.0 | https://github.com/alexheretic/ab-glyph | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+accesskit-0.24.1: MIT OR Apache-2.0 | https://github.com/AccessKit/accesskit | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+accesskit_atspi_common-0.18.1: MIT OR Apache-2.0 | https://github.com/AccessKit/accesskit | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+accesskit_consumer-0.35.0: MIT OR Apache-2.0 | https://github.com/AccessKit/accesskit | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+accesskit_consumer-0.36.0: MIT OR Apache-2.0 | https://github.com/AccessKit/accesskit | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+accesskit_consumer-0.38.0: MIT OR Apache-2.0 | https://github.com/AccessKit/accesskit | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+accesskit_macos-0.26.3: MIT OR Apache-2.0 | https://github.com/AccessKit/accesskit | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+accesskit_unix-0.21.1: MIT OR Apache-2.0 | https://github.com/AccessKit/accesskit | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+accesskit_windows-0.32.1: MIT OR Apache-2.0 | https://github.com/AccessKit/accesskit | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+accesskit_winit-0.32.2: Apache-2.0 | https://github.com/AccessKit/accesskit | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+adler2-2.0.1: 0BSD OR MIT OR Apache-2.0 | https://github.com/oyvindln/adler2 | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+aead-0.5.2: MIT OR Apache-2.0 | https://github.com/RustCrypto/traits | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+aes-0.8.4: MIT OR Apache-2.0 | https://github.com/RustCrypto/block-ciphers | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+aes-gcm-0.10.3: Apache-2.0 OR MIT | https://github.com/RustCrypto/AEADs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+ahash-0.8.12: MIT OR Apache-2.0 | https://github.com/tkaitchuck/ahash | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+aligned-0.4.3: MIT OR Apache-2.0 | https://github.com/rust-embedded-community/aligned | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+aligned-vec-0.6.4: MIT | https://github.com/sarah-ek/aligned-vec/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+alloc-no-stdlib-2.0.4: BSD-3-Clause | https://github.com/dropbox/rust-alloc-no-stdlib | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+alloc-stdlib-0.2.4: BSD-3-Clause | https://github.com/dropbox/rust-alloc-no-stdlib | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+allocator-api2-0.2.21: MIT OR Apache-2.0 | https://github.com/zakarumych/allocator-api2 | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+android-activity-0.6.1: MIT OR Apache-2.0 | https://github.com/rust-mobile/android-activity | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+android-properties-0.2.2: MIT | https://github.com/miklelappo/android-properties | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+android_system_properties-0.1.6: MIT OR Apache-2.0 | https://github.com/nical/android_system_properties | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+anyhow-1.0.104: MIT OR Apache-2.0 | https://github.com/dtolnay/anyhow | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+arbitrary-1.4.2: MIT OR Apache-2.0 | https://github.com/rust-fuzz/arbitrary/ | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+arboard-3.6.1: MIT OR Apache-2.0 | https://github.com/1Password/arboard | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+arg_enum_proc_macro-0.3.4: MIT | https://github.com/lu-zero/arg_enum_proc_macro | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+arrayvec-0.7.8: MIT OR Apache-2.0 | https://github.com/bluss/arrayvec | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+as-raw-xcb-connection-1.0.1: MIT OR Apache-2.0 | https://github.com/psychon/as-raw-xcb-connection | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+as-slice-0.2.1: MIT OR Apache-2.0 | https://github.com/japaric/as-slice | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+ash-0.38.0+1.3.281: MIT OR Apache-2.0 | https://github.com/ash-rs/ash | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+async-broadcast-0.7.2: MIT OR Apache-2.0 | https://github.com/smol-rs/async-broadcast | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+async-channel-2.5.0: Apache-2.0 OR MIT | https://github.com/smol-rs/async-channel | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+async-executor-1.14.0: Apache-2.0 OR MIT | https://github.com/smol-rs/async-executor | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+async-io-2.6.0: Apache-2.0 OR MIT | https://github.com/smol-rs/async-io | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+async-lock-3.4.2: Apache-2.0 OR MIT | https://github.com/smol-rs/async-lock | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+async-process-2.5.0: Apache-2.0 OR MIT | https://github.com/smol-rs/async-process | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+async-recursion-1.1.1: MIT OR Apache-2.0 | https://github.com/dcchut/async-recursion | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+async-signal-0.2.14: Apache-2.0 OR MIT | https://github.com/smol-rs/async-signal | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+async-task-4.7.1: Apache-2.0 OR MIT | https://github.com/smol-rs/async-task | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+async-trait-0.1.92: MIT OR Apache-2.0 | https://github.com/dtolnay/async-trait | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+atomic-waker-1.1.2: Apache-2.0 OR MIT | https://github.com/smol-rs/atomic-waker | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+atspi-0.29.0: Apache-2.0 OR MIT | https://github.com/odilia-app/atspi | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+atspi-common-0.13.0: Apache-2.0 OR MIT | https://github.com/odilia-app/atspi | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+atspi-proxies-0.13.0: Apache-2.0 OR MIT | https://github.com/odilia-app/atspi | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+autocfg-1.5.1: Apache-2.0 OR MIT | https://github.com/cuviper/autocfg | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+av-scenechange-0.14.1: MIT | https://github.com/rust-av/av-scenechange | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+av1-grain-0.2.5: BSD-2-Clause | https://github.com/rust-av/av1-grain | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+avif-serialize-0.8.9: BSD-3-Clause | https://github.com/kornelski/avif-serialize | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+base16ct-0.2.0: Apache-2.0 OR MIT | https://github.com/RustCrypto/formats/tree/master/base16ct | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+base64ct-1.8.3: Apache-2.0 OR MIT | https://github.com/RustCrypto/formats | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+bit-set-0.8.0: Apache-2.0 OR MIT | https://github.com/contain-rs/bit-set | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+bit-set-0.10.0: Apache-2.0 OR MIT | https://github.com/contain-rs/bit-set | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+bit-vec-0.8.0: Apache-2.0 OR MIT | https://github.com/contain-rs/bit-vec | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+bit-vec-0.9.1: Apache-2.0 OR MIT | https://github.com/contain-rs/bit-vec | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+bitflags-1.3.2: MIT/Apache-2.0 | https://github.com/bitflags/bitflags | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+bitflags-2.13.2: MIT OR Apache-2.0 | https://github.com/bitflags/bitflags | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+bitstream-io-4.10.0: MIT/Apache-2.0 | https://github.com/tuffy/bitstream-io | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+block-0.1.6: MIT | http://github.com/SSheldon/rust-block | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+block-buffer-0.10.4: MIT OR Apache-2.0 | https://github.com/RustCrypto/utils | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+block2-0.5.1: MIT | https://github.com/madsmtm/objc2 | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+block2-0.6.2: MIT | https://github.com/madsmtm/objc2 | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+blocking-1.7.0: Apache-2.0 OR MIT | https://github.com/smol-rs/blocking | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+brotli-8.0.4: BSD-3-Clause AND MIT | https://github.com/dropbox/rust-brotli | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+brotli-decompressor-5.0.3: BSD-3-Clause/MIT | https://github.com/dropbox/rust-brotli-decompressor | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+built-0.8.1: MIT | https://github.com/lukaslueg/built | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+bumpalo-3.20.3: MIT OR Apache-2.0 | https://github.com/fitzgen/bumpalo | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+bytemuck-1.25.2: Zlib OR Apache-2.0 OR MIT | https://github.com/Lokathor/bytemuck | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+bytemuck_derive-1.12.1: Zlib OR Apache-2.0 OR MIT | https://github.com/Lokathor/bytemuck | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+byteorder-1.5.0: Unlicense OR MIT | https://github.com/BurntSushi/byteorder | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+byteorder-lite-0.1.0: Unlicense OR MIT | https://github.com/image-rs/byteorder-lite | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+bytes-1.12.1: MIT | https://github.com/tokio-rs/bytes | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+calloop-0.13.0: MIT | https://github.com/Smithay/calloop | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+calloop-0.14.4: MIT | https://github.com/Smithay/calloop | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+calloop-wayland-source-0.3.0: MIT | https://github.com/smithay/calloop-wayland-source | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+calloop-wayland-source-0.4.1: MIT | https://github.com/smithay/calloop-wayland-source | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+candle-core-0.9.2: MIT OR Apache-2.0 | https://github.com/huggingface/candle | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+candle-metal-kernels-0.9.2: MIT OR Apache-2.0 | https://github.com/huggingface/candle | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+candle-nn-0.9.2: MIT OR Apache-2.0 | https://github.com/huggingface/candle | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+candle-ug-0.9.2: MIT OR Apache-2.0 | https://github.com/huggingface/candle | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+cc-1.5.1: MIT OR Apache-2.0 | https://github.com/rust-lang/cc-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+cfg-if-1.0.5: MIT OR Apache-2.0 | https://github.com/rust-lang/cfg-if | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+cfg_aliases-0.2.2: MIT | https://github.com/katharostech/cfg_aliases | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+cgl-0.3.2: MIT / Apache-2.0 | https://github.com/servo/cgl-rs | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+chacha20-0.9.1: Apache-2.0 OR MIT | https://github.com/RustCrypto/stream-ciphers | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+chacha20poly1305-0.10.1: Apache-2.0 OR MIT | https://github.com/RustCrypto/AEADs/tree/master/chacha20poly1305 | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+cipher-0.4.4: MIT OR Apache-2.0 | https://github.com/RustCrypto/traits | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+clipboard-win-5.4.1: BSL-1.0 | https://github.com/DoumanAsh/clipboard-win | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+codespan-reporting-0.13.1: Apache-2.0 | https://github.com/brendanzab/codespan | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+color-0.3.3: Apache-2.0 OR MIT | https://github.com/linebender/color | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+color_quant-1.1.0: MIT | https://github.com/image-rs/color_quant.git | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+combine-4.6.8: MIT | https://github.com/Marwes/combine | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+concurrent-queue-2.5.0: Apache-2.0 OR MIT | https://github.com/smol-rs/concurrent-queue | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+const-oid-0.9.6: Apache-2.0 OR MIT | https://github.com/RustCrypto/formats/tree/master/const-oid | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+core-foundation-0.9.4: MIT OR Apache-2.0 | https://github.com/servo/core-foundation-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+core-foundation-sys-0.8.7: MIT OR Apache-2.0 | https://github.com/servo/core-foundation-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+core-graphics-0.23.2: MIT OR Apache-2.0 | https://github.com/servo/core-foundation-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+core-graphics-types-0.1.3: MIT OR Apache-2.0 | https://github.com/servo/core-foundation-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+cpufeatures-0.2.17: MIT OR Apache-2.0 | https://github.com/RustCrypto/utils | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+crc32fast-1.5.2: MIT OR Apache-2.0 | https://github.com/srijs/rust-crc32fast | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+crossbeam-channel-0.5.17: MIT OR Apache-2.0 | https://github.com/crossbeam-rs/crossbeam | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+crossbeam-deque-0.8.8: MIT OR Apache-2.0 | https://github.com/crossbeam-rs/crossbeam | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+crossbeam-epoch-0.9.21: MIT OR Apache-2.0 | https://github.com/crossbeam-rs/crossbeam | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+crossbeam-utils-0.8.23: MIT OR Apache-2.0 | https://github.com/crossbeam-rs/crossbeam | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+crunchy-0.2.4: MIT | https://github.com/eira-fransham/crunchy | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+crypto-bigint-0.5.5: Apache-2.0 OR MIT | https://github.com/RustCrypto/crypto-bigint | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+crypto-common-0.1.7: MIT OR Apache-2.0 | https://github.com/RustCrypto/traits | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+ctr-0.9.2: MIT OR Apache-2.0 | https://github.com/RustCrypto/block-modes | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+cursor-icon-1.2.0: MIT OR Apache-2.0 OR Zlib | https://github.com/rust-windowing/cursor-icon | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+curve25519-dalek-4.1.3: BSD-3-Clause | https://github.com/dalek-cryptography/curve25519-dalek/tree/main/curve25519-dalek | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+curve25519-dalek-derive-0.1.1: MIT/Apache-2.0 | https://github.com/dalek-cryptography/curve25519-dalek | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+der-0.7.10: Apache-2.0 OR MIT | https://github.com/RustCrypto/formats/tree/master/der | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+digest-0.10.7: MIT OR Apache-2.0 | https://github.com/RustCrypto/traits | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+dispatch-0.2.0: MIT | http://github.com/SSheldon/rust-dispatch | 0 fichier(s) inclus dans le paquet source, 0 éléments conservés
+dispatch2-0.3.1: Zlib OR Apache-2.0 OR MIT | https://github.com/madsmtm/objc2 | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+dlib-0.5.3: MIT | https://github.com/elinorbgr/dlib | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+document-features-0.2.12: MIT OR Apache-2.0 | https://github.com/slint-ui/document-features | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+downcast-rs-1.2.1: MIT/Apache-2.0 | https://github.com/marcianx/downcast-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+dpi-0.1.2: Apache-2.0 AND MIT | https://github.com/rust-windowing/winit | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+dyn-stack-0.13.2: MIT | https://codeberg.org/sarah-quinones/dyn-stack | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+dyn-stack-macros-0.1.3: MIT | https://github.com/kitegi/dynstack/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+ecdsa-0.16.9: Apache-2.0 OR MIT | https://github.com/RustCrypto/signatures/tree/master/ecdsa | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+ecolor-0.36.2: MIT OR Apache-2.0 | https://github.com/emilk/egui | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+ed25519-2.2.3: Apache-2.0 OR MIT | https://github.com/RustCrypto/signatures/tree/master/ed25519 | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+ed25519-dalek-2.2.0: BSD-3-Clause | https://github.com/dalek-cryptography/curve25519-dalek/tree/main/ed25519-dalek | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+eframe-0.36.2: MIT OR Apache-2.0 | https://github.com/emilk/egui/tree/main/crates/eframe | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+egui-0.36.2: MIT OR Apache-2.0 | https://github.com/emilk/egui | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+egui-wgpu-0.36.2: MIT OR Apache-2.0 | https://github.com/emilk/egui/tree/main/crates/egui-wgpu | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+egui-winit-0.36.2: MIT OR Apache-2.0 | https://github.com/emilk/egui/tree/main/crates/egui-winit | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+egui_glow-0.36.2: MIT OR Apache-2.0 | https://github.com/emilk/egui/tree/main/crates/egui_glow | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+either-1.18.0: MIT OR Apache-2.0 | https://github.com/rayon-rs/either | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+elliptic-curve-0.13.8: Apache-2.0 OR MIT | https://github.com/RustCrypto/traits/tree/master/elliptic-curve | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+emath-0.36.2: MIT OR Apache-2.0 | https://github.com/emilk/egui/tree/main/crates/emath | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+endi-1.1.1: MIT | https://github.com/zeenix/endi | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+enum-as-inner-0.6.1: MIT/Apache-2.0 | https://github.com/bluejekyll/enum-as-inner | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+enumflags2-0.7.12: MIT OR Apache-2.0 | https://github.com/meithecatte/enumflags2 | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+enumflags2_derive-0.7.12: MIT OR Apache-2.0 | https://github.com/meithecatte/enumflags2 | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+epaint-0.36.2: MIT OR Apache-2.0 | https://github.com/emilk/egui/tree/main/crates/epaint | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+epaint_default_fonts-0.36.2: (MIT OR Apache-2.0) AND OFL-1.1 AND Ubuntu-font-1.0 | https://github.com/emilk/egui/tree/main/crates/epaint_default_fonts | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+equator-0.4.2: MIT | https://github.com/sarah-ek/equator/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+equator-macro-0.4.2: MIT | https://github.com/sarah-ek/equator/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+equivalent-1.0.2: Apache-2.0 OR MIT | https://github.com/indexmap-rs/equivalent | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+errno-0.3.14: MIT OR Apache-2.0 | https://github.com/lambda-fairy/rust-errno | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+error-code-3.4.0: BSL-1.0 | https://github.com/DoumanAsh/error-code | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+euclid-0.22.14: MIT OR Apache-2.0 | https://github.com/servo/euclid | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+event-listener-5.4.2: Apache-2.0 OR MIT | https://github.com/smol-rs/event-listener | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+event-listener-strategy-0.5.4: Apache-2.0 OR MIT | https://github.com/smol-rs/event-listener-strategy | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+fastrand-2.5.0: Apache-2.0 OR MIT | https://github.com/smol-rs/fastrand | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+fax-0.2.7: MIT | https://github.com/pdf-rs/fax | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+fdeflate-0.3.7: MIT OR Apache-2.0 | https://github.com/image-rs/fdeflate | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+fearless_simd-0.4.1: Apache-2.0 OR MIT | https://github.com/linebender/fearless_simd | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+ff-0.13.1: MIT/Apache-2.0 | https://github.com/zkcrypto/ff | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+fiat-crypto-0.2.9: MIT OR Apache-2.0 OR BSD-1-Clause | https://github.com/mit-plv/fiat-crypto | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+find-msvc-tools-0.1.14: MIT OR Apache-2.0 | https://github.com/rust-lang/cc-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+flate2-1.1.10: MIT OR Apache-2.0 | https://github.com/rust-lang/flate2-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+float8-0.6.1: MIT | https://github.com/EricLBuehler/float8 | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+fnv-1.0.7: Apache-2.0 / MIT | https://github.com/servo/rust-fnv | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+foldhash-0.2.0: Zlib | https://github.com/orlp/foldhash | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+font-types-0.12.5: MIT OR Apache-2.0 | https://github.com/googlefonts/fontations | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+foreign-types-0.5.0: MIT/Apache-2.0 | https://github.com/sfackler/foreign-types | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+foreign-types-macros-0.2.4: MIT/Apache-2.0 | https://github.com/sfackler/foreign-types | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+foreign-types-shared-0.3.1: MIT/Apache-2.0 | https://github.com/sfackler/foreign-types | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+futures-core-0.3.34: MIT OR Apache-2.0 | https://github.com/rust-lang/futures-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+futures-io-0.3.34: MIT OR Apache-2.0 | https://github.com/rust-lang/futures-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+futures-lite-2.6.1: Apache-2.0 OR MIT | https://github.com/smol-rs/futures-lite | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+futures-macro-0.3.34: MIT OR Apache-2.0 | https://github.com/rust-lang/futures-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+futures-task-0.3.34: MIT OR Apache-2.0 | https://github.com/rust-lang/futures-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+futures-util-0.3.34: MIT OR Apache-2.0 | https://github.com/rust-lang/futures-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+gemm-0.18.2: MIT | https://github.com/sarah-ek/gemm/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+gemm-0.19.0: MIT | https://github.com/sarah-ek/gemm/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+gemm-c32-0.18.2: MIT | https://github.com/sarah-ek/gemm/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+gemm-c32-0.19.0: MIT | https://github.com/sarah-ek/gemm/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+gemm-c64-0.18.2: MIT | https://github.com/sarah-ek/gemm/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+gemm-c64-0.19.0: MIT | https://github.com/sarah-ek/gemm/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+gemm-common-0.18.2: MIT | https://github.com/sarah-ek/gemm/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+gemm-common-0.19.0: MIT | https://github.com/sarah-ek/gemm/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+gemm-f16-0.18.2: MIT | https://github.com/sarah-ek/gemm/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+gemm-f16-0.19.0: MIT | https://github.com/sarah-ek/gemm/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+gemm-f32-0.18.2: MIT | https://github.com/sarah-ek/gemm/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+gemm-f32-0.19.0: MIT | https://github.com/sarah-ek/gemm/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+gemm-f64-0.18.2: MIT | https://github.com/sarah-ek/gemm/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+gemm-f64-0.19.0: MIT | https://github.com/sarah-ek/gemm/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+generic-array-0.14.7: MIT | https://github.com/fizyk20/generic-array.git | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+gethostname-1.1.0: Apache-2.0 | https://codeberg.org/swsnr/gethostname.rs.git | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+getrandom-0.2.17: MIT OR Apache-2.0 | https://github.com/rust-random/getrandom | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+getrandom-0.3.4: MIT OR Apache-2.0 | https://github.com/rust-random/getrandom | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+getrandom-0.4.3: MIT OR Apache-2.0 | https://github.com/rust-random/getrandom | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+ghash-0.5.1: Apache-2.0 OR MIT | https://github.com/RustCrypto/universal-hashes | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+gif-0.14.2: MIT OR Apache-2.0 | https://github.com/image-rs/image-gif | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+gl_generator-0.14.0: Apache-2.0 | https://github.com/brendanzab/gl-rs/ | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+glifo-0.2.0: Apache-2.0 OR MIT | https://github.com/linebender/vello | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+glow-0.17.0: MIT OR Apache-2.0 OR Zlib | https://github.com/grovesNL/glow | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+glutin-0.32.3: Apache-2.0 | https://github.com/rust-windowing/glutin | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+glutin-winit-0.5.0: MIT | https://github.com/rust-windowing/glutin | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+glutin_egl_sys-0.7.1: Apache-2.0 | https://github.com/rust-windowing/glutin | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+glutin_glx_sys-0.6.1: Apache-2.0 | https://github.com/rust-windowing/glutin | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+glutin_wgl_sys-0.6.1: Apache-2.0 | https://github.com/rust-windowing/glutin | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+gpu-allocator-0.28.0: MIT OR Apache-2.0 | https://github.com/Traverse-Research/gpu-allocator | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+group-0.13.0: MIT/Apache-2.0 | https://github.com/zkcrypto/group | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+guillotiere-0.7.0: MIT/Apache-2.0 | https://github.com/nical/guillotiere | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+half-2.7.1: MIT OR Apache-2.0 | https://github.com/VoidStarKat/half-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+harfrust-0.12.0: MIT | https://github.com/harfbuzz/harfrust | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+hashbrown-0.16.1: MIT OR Apache-2.0 | https://github.com/rust-lang/hashbrown | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+hashbrown-0.17.1: MIT OR Apache-2.0 | https://github.com/rust-lang/hashbrown | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+heck-0.5.0: MIT OR Apache-2.0 | https://github.com/withoutboats/heck | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+hermit-abi-0.5.3: MIT OR Apache-2.0 | https://github.com/hermit-os/hermit-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+hex-0.4.3: MIT OR Apache-2.0 | https://github.com/KokaKiwi/rust-hex | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+hkdf-0.12.4: MIT OR Apache-2.0 | https://github.com/RustCrypto/KDFs/ | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+hmac-0.12.1: MIT OR Apache-2.0 | https://github.com/RustCrypto/MACs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+image-0.25.10: MIT OR Apache-2.0 | https://github.com/image-rs/image | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+image-webp-0.2.4: MIT OR Apache-2.0 | https://github.com/image-rs/image-webp | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+imgref-1.12.3: CC0-1.0 OR Apache-2.0 | https://github.com/kornelski/imgref | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+indexmap-2.14.2: Apache-2.0 OR MIT | https://github.com/indexmap-rs/indexmap | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+inout-0.1.4: MIT OR Apache-2.0 | https://github.com/RustCrypto/utils | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+interpolate_name-0.2.4: MIT | https://github.com/lu-zero/interpolate_name | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+itertools-0.14.0: MIT OR Apache-2.0 | https://github.com/rust-itertools/itertools | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+itertools-0.15.0: MIT OR Apache-2.0 | https://github.com/rust-itertools/itertools | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+itoa-1.0.18: MIT OR Apache-2.0 | https://github.com/dtolnay/itoa | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+jni-0.22.4: MIT OR Apache-2.0 | https://github.com/jni-rs/jni-rs | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+jni-macros-0.22.4: MIT OR Apache-2.0 | https://github.com/jni-rs/jni-rs | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+jni-sys-0.3.1: MIT OR Apache-2.0 | https://github.com/jni-rs/jni-sys | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+jni-sys-0.4.1: MIT OR Apache-2.0 | https://github.com/jni-rs/jni-sys | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+jni-sys-macros-0.4.1: MIT OR Apache-2.0 | https://github.com/jni-rs/jni-sys | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+jobserver-0.1.35: MIT OR Apache-2.0 | https://github.com/rust-lang/jobserver-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+jpeg-decoder-0.3.2: MIT OR Apache-2.0 | https://github.com/image-rs/jpeg-decoder | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+jpeg-encoder-0.7.1: (MIT OR Apache-2.0) AND IJG | https://github.com/vstroebel/jpeg-encoder | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+js-sys-0.3.106: MIT OR Apache-2.0 | https://github.com/wasm-bindgen/wasm-bindgen/tree/master/crates/js-sys | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+jxl-bitstream-1.1.0: MIT OR Apache-2.0 | https://github.com/tirr-c/jxl-oxide.git | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+jxl-coding-1.0.1: MIT OR Apache-2.0 | https://github.com/tirr-c/jxl-oxide.git | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+jxl-color-0.11.0: MIT OR Apache-2.0 | https://github.com/tirr-c/jxl-oxide.git | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+jxl-frame-0.13.3: MIT OR Apache-2.0 | https://github.com/tirr-c/jxl-oxide.git | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+jxl-grid-0.6.2: MIT OR Apache-2.0 | https://github.com/tirr-c/jxl-oxide.git | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+jxl-image-0.13.0: MIT OR Apache-2.0 | https://github.com/tirr-c/jxl-oxide.git | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+jxl-jbr-0.2.1: MIT OR Apache-2.0 | https://github.com/tirr-c/jxl-oxide.git | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+jxl-modular-0.11.3: MIT OR Apache-2.0 | https://github.com/tirr-c/jxl-oxide.git | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+jxl-oxide-0.12.6: MIT OR Apache-2.0 | https://github.com/tirr-c/jxl-oxide.git | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+jxl-oxide-common-1.0.0: MIT OR Apache-2.0 | https://github.com/tirr-c/jxl-oxide.git | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+jxl-render-0.12.4: MIT OR Apache-2.0 | https://github.com/tirr-c/jxl-oxide.git | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+jxl-threadpool-1.0.0: MIT OR Apache-2.0 | https://github.com/tirr-c/jxl-oxide.git | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+jxl-vardct-0.11.1: MIT OR Apache-2.0 | https://github.com/tirr-c/jxl-oxide.git | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+keyboard-types-0.8.3: MIT OR Apache-2.0 | https://github.com/rust-windowing/keyboard-types | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+khronos-egl-6.0.0: MIT/Apache-2.0 | https://github.com/timothee-haudebourg/khronos-egl | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+khronos_api-3.1.0: Apache-2.0 | https://github.com/brendanzab/gl-rs/ | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+kurbo-0.13.1: Apache-2.0 OR MIT | https://github.com/linebender/kurbo | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+lazy_static-1.5.1: MIT OR Apache-2.0 | https://github.com/rust-lang-nursery/lazy-static.rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+libc-0.2.189: MIT OR Apache-2.0 | https://github.com/rust-lang/libc | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+libfuzzer-sys-0.4.13: (MIT OR Apache-2.0) AND NCSA | https://github.com/rust-fuzz/libfuzzer | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+libloading-0.8.9: ISC | https://github.com/nagisa/rust_libloading/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+libm-0.2.16: MIT | https://github.com/rust-lang/compiler-builtins | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+libredox-0.1.25: MIT | https://gitlab.redox-os.org/redox-os/libredox.git | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+linebender_resource_handle-0.1.1: Apache-2.0 OR MIT | https://github.com/linebender/raw_resource_handle | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+linux-raw-sys-0.4.15: Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT | https://github.com/sunfishcode/linux-raw-sys | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+linux-raw-sys-0.12.1: Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT | https://github.com/sunfishcode/linux-raw-sys | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+litrs-1.0.0: MIT OR Apache-2.0 | https://github.com/LukasKalbertodt/litrs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+lock_api-0.4.14: MIT OR Apache-2.0 | https://github.com/Amanieu/parking_lot | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+log-0.4.34: MIT OR Apache-2.0 | https://github.com/rust-lang/log | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+loop9-0.1.5: MIT | https://gitlab.com/kornelski/loop9.git | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+malloc_buf-0.0.6: MIT | https://github.com/SSheldon/malloc_buf | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+maybe-rayon-0.1.1: MIT | https://github.com/shssoichiro/maybe-rayon | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+memchr-2.8.3: Unlicense OR MIT | https://github.com/BurntSushi/memchr | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+memmap2-0.9.11: MIT OR Apache-2.0 | https://github.com/RazrFalcon/memmap2-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+memoffset-0.9.1: MIT | https://github.com/Gilnaa/memoffset | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+metal-0.29.0: MIT OR Apache-2.0 | https://github.com/gfx-rs/metal-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+miniz_oxide-0.8.9: MIT OR Zlib OR Apache-2.0 | https://github.com/Frommi/miniz_oxide/tree/master/miniz_oxide | 4 fichier(s) inclus dans le paquet source, 4 éléments conservés
+miniz_oxide-0.9.1: MIT OR Zlib OR Apache-2.0 | https://github.com/Frommi/miniz_oxide/tree/master/miniz_oxide | 4 fichier(s) inclus dans le paquet source, 4 éléments conservés
+moxcms-0.8.1: BSD-3-Clause OR Apache-2.0 | https://github.com/awxkee/moxcms.git | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+moxcms-0.9.1: BSD-3-Clause OR Apache-2.0 | https://github.com/awxkee/moxcms.git | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+muda-0.21.0: Apache-2.0 OR MIT | https://github.com/tauri-apps/muda | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+naga-30.0.1: MIT OR Apache-2.0 | https://github.com/gfx-rs/wgpu | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+naga-types-30.0.1: MIT OR Apache-2.0 | https://github.com/gfx-rs/wgpu | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+ndk-0.9.0: MIT OR Apache-2.0 | https://github.com/rust-mobile/ndk | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+ndk-context-0.1.1: MIT OR Apache-2.0 | https://github.com/rust-windowing/android-ndk-rs | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+ndk-sys-0.6.0+11769913: MIT OR Apache-2.0 | https://github.com/rust-mobile/ndk | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+new_debug_unreachable-1.0.6: MIT | https://github.com/mbrubeck/rust-debug-unreachable | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+no_std_io2-0.9.4: Apache-2.0 OR MIT | https://github.com/wcampbell0x2a/no-std-io2 | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+nohash-hasher-0.2.0: Apache-2.0 OR MIT | https://github.com/paritytech/nohash-hasher | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+nom-8.0.0: MIT | https://github.com/rust-bakery/nom | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+noop_proc_macro-0.3.0: MIT | https://github.com/lu-zero/noop_proc_macro | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+num-0.4.3: MIT OR Apache-2.0 | https://github.com/rust-num/num | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+num-bigint-0.4.8: MIT OR Apache-2.0 | https://github.com/rust-num/num-bigint | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+num-bigint-dig-0.8.6: MIT/Apache-2.0 | https://github.com/dignifiedquire/num-bigint | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+num-complex-0.4.6: MIT OR Apache-2.0 | https://github.com/rust-num/num-complex | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+num-derive-0.4.2: MIT OR Apache-2.0 | https://github.com/rust-num/num-derive | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+num-integer-0.1.47: MIT OR Apache-2.0 | https://github.com/rust-num/num-integer | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+num-iter-0.1.46: MIT OR Apache-2.0 | https://github.com/rust-num/num-iter | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+num-rational-0.4.2: MIT OR Apache-2.0 | https://github.com/rust-num/num-rational | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+num-traits-0.2.19: MIT OR Apache-2.0 | https://github.com/rust-num/num-traits | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+num_cpus-1.17.0: MIT OR Apache-2.0 | https://github.com/seanmonstar/num_cpus | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+num_enum-0.7.6: BSD-3-Clause OR MIT OR Apache-2.0 | https://github.com/illicitonion/num_enum | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+num_enum_derive-0.7.6: BSD-3-Clause OR MIT OR Apache-2.0 | https://github.com/illicitonion/num_enum | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+objc-0.2.7: MIT | http://github.com/SSheldon/rust-objc | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+objc-sys-0.3.5: MIT | https://github.com/madsmtm/objc2 | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+objc2-0.5.2: MIT | https://github.com/madsmtm/objc2 | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+objc2-0.6.4: MIT | https://github.com/madsmtm/objc2 | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+objc2-app-kit-0.2.2: MIT | https://github.com/madsmtm/objc2 | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+objc2-app-kit-0.3.2: Zlib OR Apache-2.0 OR MIT | https://github.com/madsmtm/objc2 | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+objc2-cloud-kit-0.2.2: MIT | https://github.com/madsmtm/objc2 | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+objc2-contacts-0.2.2: MIT | https://github.com/madsmtm/objc2 | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+objc2-core-data-0.2.2: MIT | https://github.com/madsmtm/objc2 | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+objc2-core-foundation-0.3.2: Zlib OR Apache-2.0 OR MIT | https://github.com/madsmtm/objc2 | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+objc2-core-graphics-0.3.2: Zlib OR Apache-2.0 OR MIT | https://github.com/madsmtm/objc2 | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+objc2-core-image-0.2.2: MIT | https://github.com/madsmtm/objc2 | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+objc2-core-location-0.2.2: MIT | https://github.com/madsmtm/objc2 | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+objc2-encode-4.1.0: MIT | https://github.com/madsmtm/objc2 | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+objc2-foundation-0.2.2: MIT | https://github.com/madsmtm/objc2 | 2 fichier(s) inclus dans le paquet source, 4 éléments conservés
+objc2-foundation-0.3.2: MIT | https://github.com/madsmtm/objc2 | 2 fichier(s) inclus dans le paquet source, 4 éléments conservés
+objc2-io-surface-0.3.2: Zlib OR Apache-2.0 OR MIT | https://github.com/madsmtm/objc2 | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+objc2-link-presentation-0.2.2: MIT | https://github.com/madsmtm/objc2 | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+objc2-metal-0.2.2: MIT | https://github.com/madsmtm/objc2 | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+objc2-metal-0.3.2: Zlib OR Apache-2.0 OR MIT | https://github.com/madsmtm/objc2 | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+objc2-quartz-core-0.2.2: MIT | https://github.com/madsmtm/objc2 | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+objc2-quartz-core-0.3.2: Zlib OR Apache-2.0 OR MIT | https://github.com/madsmtm/objc2 | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+objc2-symbols-0.2.2: MIT | https://github.com/madsmtm/objc2 | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+objc2-ui-kit-0.2.2: MIT | https://github.com/madsmtm/objc2 | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+objc2-ui-kit-0.3.2: Zlib OR Apache-2.0 OR MIT | https://github.com/madsmtm/objc2 | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+objc2-uniform-type-identifiers-0.2.2: MIT | https://github.com/madsmtm/objc2 | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+objc2-user-notifications-0.2.2: MIT | https://github.com/madsmtm/objc2 | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+once_cell-1.21.4: MIT OR Apache-2.0 | https://github.com/matklad/once_cell | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+opaque-debug-0.3.1: MIT OR Apache-2.0 | https://github.com/RustCrypto/utils | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+orbclient-0.3.55: MIT | https://gitlab.redox-os.org/redox-os/orbclient | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+ordered-float-5.5.0: MIT | https://github.com/reem/rust-ordered-float | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+ordered-stream-0.2.0: MIT OR Apache-2.0 | https://github.com/danieldg/ordered-stream | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+owned_ttf_parser-0.25.1: Apache-2.0 | https://github.com/alexheretic/owned-ttf-parser | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+p256-0.13.2: Apache-2.0 OR MIT | https://github.com/RustCrypto/elliptic-curves/tree/master/p256 | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+p384-0.13.1: Apache-2.0 OR MIT | https://github.com/RustCrypto/elliptic-curves/tree/master/p384 | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+parking-2.2.1: Apache-2.0 OR MIT | https://github.com/smol-rs/parking | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+parking_lot-0.12.5: MIT OR Apache-2.0 | https://github.com/Amanieu/parking_lot | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+parking_lot_core-0.9.12: MIT OR Apache-2.0 | https://github.com/Amanieu/parking_lot | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+paste-1.0.15: MIT OR Apache-2.0 | https://github.com/dtolnay/paste | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+pastey-0.1.1: MIT OR Apache-2.0 | https://github.com/as1100k/pastey | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+pem-rfc7468-0.7.0: Apache-2.0 OR MIT | https://github.com/RustCrypto/formats/tree/master/pem-rfc7468 | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+peniko-0.6.1: Apache-2.0 OR MIT | https://github.com/linebender/peniko | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+percent-encoding-2.3.2: MIT OR Apache-2.0 | https://github.com/servo/rust-url/ | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+phf-0.13.1: MIT | https://github.com/rust-phf/rust-phf | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+phf_generator-0.13.1: MIT | https://github.com/rust-phf/rust-phf | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+phf_macros-0.13.1: MIT | https://github.com/rust-phf/rust-phf | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+phf_shared-0.13.1: MIT | https://github.com/rust-phf/rust-phf | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+pin-project-1.1.13: Apache-2.0 OR MIT | https://github.com/taiki-e/pin-project | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+pin-project-internal-1.1.13: Apache-2.0 OR MIT | https://github.com/taiki-e/pin-project | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+pin-project-lite-0.2.17: Apache-2.0 OR MIT | https://github.com/taiki-e/pin-project-lite | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+piper-0.2.5: MIT OR Apache-2.0 | https://github.com/smol-rs/piper | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+pkcs1-0.7.5: Apache-2.0 OR MIT | https://github.com/RustCrypto/formats/tree/master/pkcs1 | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+pkcs5-0.7.1: Apache-2.0 OR MIT | https://github.com/RustCrypto/formats/tree/master/pkcs5 | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+pkcs8-0.10.2: Apache-2.0 OR MIT | https://github.com/RustCrypto/formats/tree/master/pkcs8 | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+pkg-config-0.3.34: MIT OR Apache-2.0 | https://github.com/rust-lang/pkg-config-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+plain-0.2.3: MIT/Apache-2.0 | https://github.com/randomites/plain | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+png-0.18.1: MIT OR Apache-2.0 | https://github.com/image-rs/image-png | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+polling-3.11.0: Apache-2.0 OR MIT | https://github.com/smol-rs/polling | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+pollster-0.4.0: Apache-2.0/MIT | https://github.com/zesterer/pollster | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+pollster-1.0.1: Apache-2.0/MIT | https://github.com/zesterer/pollster | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+poly1305-0.8.0: Apache-2.0 OR MIT | https://github.com/RustCrypto/universal-hashes | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+polycool-0.4.0: MIT OR Apache-2.0 | https://github.com/linebender/kurbo | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+polyval-0.6.2: Apache-2.0 OR MIT | https://github.com/RustCrypto/universal-hashes | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+portable-atomic-1.15.0: Apache-2.0 OR MIT | https://github.com/taiki-e/portable-atomic | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+portable-atomic-util-0.2.8: Apache-2.0 OR MIT | https://github.com/taiki-e/portable-atomic-util | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+ppv-lite86-0.2.21: MIT OR Apache-2.0 | https://github.com/cryptocorrosion/cryptocorrosion | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+presser-0.3.1: MIT OR Apache-2.0 | https://github.com/EmbarkStudios/presser | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+primeorder-0.13.6: Apache-2.0 OR MIT | https://github.com/RustCrypto/elliptic-curves/tree/master/primeorder | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+proc-macro-crate-3.5.0: MIT OR Apache-2.0 | https://github.com/bkchr/proc-macro-crate | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+proc-macro2-1.0.107: MIT OR Apache-2.0 | https://github.com/dtolnay/proc-macro2 | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+profiling-1.0.18: MIT OR Apache-2.0 | https://github.com/aclysma/profiling | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+profiling-procmacros-1.0.18: MIT OR Apache-2.0 | https://github.com/aclysma/profiling | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+proptest-1.11.0: MIT OR Apache-2.0 | https://github.com/proptest-rs/proptest | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+pulp-0.21.5: MIT | https://github.com/sarah-ek/pulp/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+pulp-0.22.3: MIT | https://github.com/sarah-quinones/pulp/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+pulp-wasm-simd-flag-0.1.1: MIT | https://github.com/sarah-quinones/pulp/ | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+pxfm-0.1.30: BSD-3-Clause OR Apache-2.0 | https://github.com/awxkee/pxfm | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+quick-error-1.2.3: MIT/Apache-2.0 | http://github.com/tailhook/quick-error | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+quick-error-2.0.1: MIT/Apache-2.0 | http://github.com/tailhook/quick-error | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+quick-xml-0.38.4: MIT | https://github.com/tafia/quick-xml | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+quick-xml-0.41.0: MIT | https://github.com/tafia/quick-xml | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+quote-1.0.47: MIT OR Apache-2.0 | https://github.com/dtolnay/quote | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+r-efi-5.3.0: MIT OR Apache-2.0 OR LGPL-2.1-or-later | https://github.com/r-efi/r-efi | 0 fichier(s) inclus dans le paquet source, 0 éléments conservés
+r-efi-6.0.0: MIT OR Apache-2.0 OR LGPL-2.1-or-later | https://github.com/r-efi/r-efi | 0 fichier(s) inclus dans le paquet source, 0 éléments conservés
+rand-0.8.8: MIT OR Apache-2.0 | https://github.com/rust-random/rand | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+rand-0.9.5: MIT OR Apache-2.0 | https://github.com/rust-random/rand | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+rand_chacha-0.3.1: MIT OR Apache-2.0 | https://github.com/rust-random/rand | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+rand_chacha-0.9.0: MIT OR Apache-2.0 | https://github.com/rust-random/rand | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+rand_core-0.6.4: MIT OR Apache-2.0 | https://github.com/rust-random/rand | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+rand_core-0.9.5: MIT OR Apache-2.0 | https://github.com/rust-random/rand | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+rand_distr-0.5.1: MIT OR Apache-2.0 | https://github.com/rust-random/rand_distr | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+rand_xorshift-0.4.0: MIT OR Apache-2.0 | https://github.com/rust-random/rngs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+range-alloc-0.1.5: MIT OR Apache-2.0 | https://github.com/gfx-rs/range-alloc | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+rav1e-0.8.1: BSD-2-Clause | https://github.com/xiph/rav1e/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+ravif-0.13.0: BSD-3-Clause | https://github.com/kornelski/cavif-rs | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+raw-cpuid-11.6.0: MIT | https://github.com/gz/rust-cpuid | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+raw-window-handle-0.6.2: MIT OR Apache-2.0 OR Zlib | https://github.com/rust-windowing/raw-window-handle | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+raw-window-metal-1.1.0: MIT OR Apache-2.0 | https://github.com/rust-windowing/raw-window-metal | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+rayon-1.12.0: MIT OR Apache-2.0 | https://github.com/rayon-rs/rayon | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+rayon-core-1.13.0: MIT OR Apache-2.0 | https://github.com/rayon-rs/rayon | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+read-fonts-0.41.0: MIT OR Apache-2.0 | https://github.com/googlefonts/fontations | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+reborrow-0.5.5: MIT | https://github.com/sarah-ek/reborrow/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+redox_syscall-0.4.1: MIT | https://gitlab.redox-os.org/redox-os/syscall | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+redox_syscall-0.5.18: MIT | https://gitlab.redox-os.org/redox-os/syscall | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+redox_syscall-0.9.4: MIT | https://gitlab.redox-os.org/redox-os/kernel | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+regex-syntax-0.8.11: MIT OR Apache-2.0 | https://github.com/rust-lang/regex | 3 fichier(s) inclus dans le paquet source, 5 éléments conservés
+renderdoc-sys-1.1.0: MIT OR Apache-2.0 | https://github.com/ebkalderon/renderdoc-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+rfc6979-0.4.0: Apache-2.0 OR MIT | https://github.com/RustCrypto/signatures/tree/master/rfc6979 | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+rfd-0.17.2: MIT | https://github.com/PolyMeilex/rfd | 2 fichier(s) inclus dans le paquet source, 6 éléments conservés
+rgb-0.8.53: MIT | https://github.com/kornelski/rust-rgb | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+ring-0.17.14: Apache-2.0 AND ISC | https://github.com/briansmith/ring | 6 fichier(s) inclus dans le paquet source, 11 éléments conservés
+rsa-0.9.10: MIT OR Apache-2.0 | https://github.com/RustCrypto/RSA | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+rustc-hash-1.1.0: Apache-2.0/MIT | https://github.com/rust-lang-nursery/rustc-hash | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+rustc-hash-2.1.3: Apache-2.0 OR MIT | https://github.com/rust-lang/rustc-hash | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+rustc_version-0.4.1: MIT OR Apache-2.0 | https://github.com/djc/rustc-version-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+rustix-0.38.44: Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT | https://github.com/bytecodealliance/rustix | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+rustix-1.1.5: Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT | https://github.com/bytecodealliance/rustix | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+rustls-0.23.45: Apache-2.0 OR ISC OR MIT | https://github.com/rustls/rustls | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+rustls-pki-types-1.15.1: MIT OR Apache-2.0 | https://github.com/rustls/pki-types | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+rustls-rustcrypto-0.0.2-alpha: MIT OR Apache-2.0 | https://github.com/RustCrypto/rustls-rustcrypto | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+rustls-webpki-0.102.8: ISC | https://github.com/rustls/webpki | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+rustls-webpki-0.103.15: ISC | https://github.com/rustls/webpki | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+rustversion-1.0.23: MIT OR Apache-2.0 | https://github.com/dtolnay/rustversion | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+rusty-fork-0.3.1: MIT/Apache-2.0 | https://github.com/altsysrq/rusty-fork | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+safetensors-0.4.5: Apache-2.0 | https://github.com/huggingface/safetensors | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+safetensors-0.7.0: Apache-2.0 | https://github.com/huggingface/safetensors | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+same-file-1.0.6: Unlicense/MIT | https://github.com/BurntSushi/same-file | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+scoped-tls-1.0.1: MIT/Apache-2.0 | https://github.com/alexcrichton/scoped-tls | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+scopeguard-1.2.0: MIT OR Apache-2.0 | https://github.com/bluss/scopeguard | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+sec1-0.7.3: Apache-2.0 OR MIT | https://github.com/RustCrypto/formats/tree/master/sec1 | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+self_cell-1.3.0: Apache-2.0 OR GPL-2.0-only | https://github.com/Voultapher/self_cell | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+semver-1.0.28: MIT OR Apache-2.0 | https://github.com/dtolnay/semver | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+seq-macro-0.3.6: MIT OR Apache-2.0 | https://github.com/dtolnay/seq-macro | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+serde-1.0.229: MIT OR Apache-2.0 | https://github.com/serde-rs/serde | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+serde_core-1.0.229: MIT OR Apache-2.0 | https://github.com/serde-rs/serde | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+serde_derive-1.0.229: MIT OR Apache-2.0 | https://github.com/serde-rs/serde | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+serde_json-1.0.151: MIT OR Apache-2.0 | https://github.com/serde-rs/json | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+serde_repr-0.1.21: MIT OR Apache-2.0 | https://github.com/dtolnay/serde-repr | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+serde_spanned-1.1.1: MIT OR Apache-2.0 | https://github.com/toml-rs/toml | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+sha2-0.10.9: MIT OR Apache-2.0 | https://github.com/RustCrypto/hashes | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+shlex-2.0.1: MIT OR Apache-2.0 | https://github.com/comex/rust-shlex | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+signal-hook-registry-1.4.8: MIT OR Apache-2.0 | https://github.com/vorner/signal-hook | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+signature-2.2.0: Apache-2.0 OR MIT | https://github.com/RustCrypto/traits/tree/master/signature | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+simd-adler32-0.3.10: MIT | https://github.com/mcountryman/simd-adler32 | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+simd_cesu8-1.2.0: Apache-2.0 OR MIT | https://github.com/seancroach/simd_cesu8 | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+simd_helpers-0.1.0: MIT | https://github.com/lu-zero/simd_helpers | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+simdutf8-0.1.5: MIT OR Apache-2.0 | https://github.com/rusticstuff/simdutf8 | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+siphasher-1.0.4: MIT OR Apache-2.0 | https://github.com/jedisct1/rust-siphash | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+skrifa-0.44.0: MIT OR Apache-2.0 | https://github.com/googlefonts/fontations | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+slab-0.4.12: MIT | https://github.com/tokio-rs/slab | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+slotmap-1.1.1: Zlib | https://github.com/orlp/slotmap | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+smallvec-1.16.2: MIT OR Apache-2.0 | https://github.com/servo/rust-smallvec | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+smithay-client-toolkit-0.19.2: MIT | https://github.com/smithay/client-toolkit | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+smithay-client-toolkit-0.20.0: MIT | https://github.com/smithay/client-toolkit | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+smithay-clipboard-0.7.3: MIT | https://github.com/smithay/smithay-clipboard | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+smol_str-0.2.2: MIT OR Apache-2.0 | https://github.com/rust-analyzer/smol_str | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+spin-0.9.9: MIT | https://github.com/mvdnes/spin-rs.git | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+spirv-0.4.0+sdk-1.4.341.0: Apache-2.0 | https://github.com/gfx-rs/rspirv | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+spki-0.7.3: Apache-2.0 OR MIT | https://github.com/RustCrypto/formats/tree/master/spki | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+stable_deref_trait-1.2.1: MIT OR Apache-2.0 | https://github.com/storyyeller/stable_deref_trait | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+static_assertions-1.1.0: MIT OR Apache-2.0 | https://github.com/nvzqz/static-assertions-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+subtle-2.6.1: BSD-3-Clause | https://github.com/dalek-cryptography/subtle | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+syn-2.0.119: MIT OR Apache-2.0 | https://github.com/dtolnay/syn | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+syn-3.0.6: MIT OR Apache-2.0 | https://github.com/dtolnay/syn | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+synstructure-0.13.2: MIT | https://github.com/mystor/synstructure | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+synstructure-0.14.0: MIT | https://github.com/mystor/synstructure | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+sysctl-0.6.0: MIT | https://github.com/johalun/sysctl-rs | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+tempfile-3.27.0: MIT OR Apache-2.0 | https://github.com/Stebalien/tempfile | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+termcolor-1.4.1: Unlicense OR MIT | https://github.com/BurntSushi/termcolor | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+thiserror-1.0.69: MIT OR Apache-2.0 | https://github.com/dtolnay/thiserror | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+thiserror-2.0.21: MIT OR Apache-2.0 | https://github.com/dtolnay/thiserror | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+thiserror-impl-1.0.69: MIT OR Apache-2.0 | https://github.com/dtolnay/thiserror | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+thiserror-impl-2.0.21: MIT OR Apache-2.0 | https://github.com/dtolnay/thiserror | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+tiff-0.11.3: MIT | https://github.com/image-rs/image-tiff | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+tokio-1.53.1: MIT | https://github.com/tokio-rs/tokio | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+toml-1.1.6+spec-1.1.0: MIT OR Apache-2.0 | https://github.com/toml-rs/toml | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+toml_datetime-1.1.1+spec-1.1.0: MIT OR Apache-2.0 | https://github.com/toml-rs/toml | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+toml_edit-0.25.15+spec-1.1.0: MIT OR Apache-2.0 | https://github.com/toml-rs/toml | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+toml_parser-1.1.3+spec-1.1.0: MIT OR Apache-2.0 | https://github.com/toml-rs/toml | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+toml_writer-1.1.2+spec-1.1.0: MIT OR Apache-2.0 | https://github.com/toml-rs/toml | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+tracing-0.1.44: MIT | https://github.com/tokio-rs/tracing | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+tracing-attributes-0.1.31: MIT | https://github.com/tokio-rs/tracing | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+tracing-core-0.1.36: MIT | https://github.com/tokio-rs/tracing | 2 fichier(s) inclus dans le paquet source, 4 éléments conservés
+ttf-parser-0.25.1: MIT OR Apache-2.0 | https://github.com/harfbuzz/ttf-parser | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+type-map-0.5.1: MIT/Apache-2.0 | https://github.com/kardeiz/type-map | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+typed-path-0.12.3: MIT OR Apache-2.0 | https://github.com/chipsenkbeil/typed-path | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+typenum-1.20.1: MIT OR Apache-2.0 | https://github.com/paholg/typenum | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+uds_windows-1.2.1: MIT | https://github.com/haraldh/rust_uds_windows | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+ug-0.5.0: MIT OR Apache-2.0 | https://github.com/LaurentMazare/ug | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+ug-metal-0.5.0: MIT OR Apache-2.0 | https://github.com/LaurentMazare/ug | 0 fichier(s) inclus dans le paquet source, 2 éléments conservés
+unarray-0.1.4: MIT OR Apache-2.0 | https://github.com/cameron1024/unarray | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+unicode-general-category-1.1.0: Apache-2.0 | https://github.com/yeslogic/unicode-general-category | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+unicode-ident-1.0.26: (MIT OR Apache-2.0) AND Unicode-3.0 | https://github.com/dtolnay/unicode-ident | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+unicode-segmentation-1.13.3: MIT OR Apache-2.0 | https://github.com/unicode-rs/unicode-segmentation | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+unicode-width-0.2.2: MIT OR Apache-2.0 | https://github.com/unicode-rs/unicode-width | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+universal-hash-0.5.1: MIT OR Apache-2.0 | https://github.com/RustCrypto/traits | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+untrusted-0.9.0: ISC | https://github.com/briansmith/untrusted | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+uuid-1.26.1: Apache-2.0 OR MIT | https://github.com/uuid-rs/uuid | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+v_frame-0.3.9: BSD-2-Clause | https://github.com/rust-av/v_frame | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+vello_common-0.1.0: Apache-2.0 OR MIT | https://github.com/linebender/vello | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+vello_cpu-0.1.0: Apache-2.0 OR MIT | https://github.com/linebender/vello | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+version_check-0.9.5: MIT/Apache-2.0 | https://github.com/SergioBenitez/version_check | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+wait-timeout-0.2.1: MIT/Apache-2.0 | https://github.com/alexcrichton/wait-timeout | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+walkdir-2.5.0: Unlicense/MIT | https://github.com/BurntSushi/walkdir | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+wasi-0.11.1+wasi-snapshot-preview1: Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT | https://github.com/bytecodealliance/wasi | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+wasip2-1.0.4+wasi-0.2.12: Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT | https://github.com/bytecodealliance/wasi-rs | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+wasm-bindgen-0.2.129: MIT OR Apache-2.0 | https://github.com/wasm-bindgen/wasm-bindgen | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+wasm-bindgen-futures-0.4.79: MIT OR Apache-2.0 | https://github.com/wasm-bindgen/wasm-bindgen/tree/master/crates/futures | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+wasm-bindgen-macro-0.2.129: MIT OR Apache-2.0 | https://github.com/wasm-bindgen/wasm-bindgen/tree/master/crates/macro | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+wasm-bindgen-macro-support-0.2.129: MIT OR Apache-2.0 | https://github.com/wasm-bindgen/wasm-bindgen/tree/main/crates/macro-support | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+wasm-bindgen-shared-0.2.129: MIT OR Apache-2.0 | https://github.com/wasm-bindgen/wasm-bindgen/tree/master/crates/shared | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+wayland-backend-0.3.17: MIT | https://github.com/smithay/wayland-rs | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+wayland-client-0.31.15: MIT | https://github.com/smithay/wayland-rs | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+wayland-csd-frame-0.3.0: MIT | https://github.com/rust-windowing/wayland-csd-frame | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+wayland-cursor-0.31.14: MIT | https://github.com/smithay/wayland-rs | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+wayland-protocols-0.32.13: MIT | https://github.com/smithay/wayland-rs | 2 fichier(s) inclus dans le paquet source, 3 éléments conservés
+wayland-protocols-experimental-20250721.0.1: MIT | https://github.com/smithay/wayland-rs | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+wayland-protocols-misc-0.3.12: MIT | https://github.com/smithay/wayland-rs | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+wayland-protocols-plasma-0.3.12: MIT | https://github.com/smithay/wayland-rs | 2 fichier(s) inclus dans le paquet source, 3 éléments conservés
+wayland-protocols-wlr-0.3.12: MIT | https://github.com/smithay/wayland-rs | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+wayland-scanner-0.31.11: MIT | https://github.com/smithay/wayland-rs | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+wayland-sys-0.31.11: MIT | https://github.com/smithay/wayland-rs | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+web-sys-0.3.106: MIT OR Apache-2.0 | https://github.com/wasm-bindgen/wasm-bindgen/tree/master/crates/web-sys | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+web-time-1.1.0: MIT OR Apache-2.0 | https://github.com/daxpedda/web-time | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+webpki-roots-1.0.9: CDLA-Permissive-2.0 | https://github.com/rustls/webpki-roots | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+weezl-0.1.12: MIT OR Apache-2.0 | https://github.com/image-rs/weezl | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+wgpu-30.0.1: MIT OR Apache-2.0 | https://github.com/gfx-rs/wgpu | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+wgpu-core-30.0.1: MIT OR Apache-2.0 | https://github.com/gfx-rs/wgpu | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+wgpu-core-deps-apple-30.0.1: MIT OR Apache-2.0 | https://github.com/gfx-rs/wgpu | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+wgpu-core-deps-emscripten-30.0.1: MIT OR Apache-2.0 | https://github.com/gfx-rs/wgpu | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+wgpu-core-deps-wasm-30.0.1: MIT OR Apache-2.0 | https://github.com/gfx-rs/wgpu | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+wgpu-core-deps-windows-linux-android-30.0.1: MIT OR Apache-2.0 | https://github.com/gfx-rs/wgpu | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+wgpu-hal-30.0.1: MIT OR Apache-2.0 | https://github.com/gfx-rs/wgpu | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+wgpu-naga-bridge-30.0.1: MIT OR Apache-2.0 | https://github.com/gfx-rs/wgpu | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+wgpu-types-30.0.1: MIT OR Apache-2.0 | https://github.com/gfx-rs/wgpu | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+winapi-util-0.1.11: Unlicense OR MIT | https://github.com/BurntSushi/winapi-util | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+windows-0.62.2: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows-collections-0.3.2: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows-core-0.62.2: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows-future-0.3.2: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows-implement-0.60.2: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows-interface-0.59.3: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows-link-0.2.1: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows-numerics-0.3.1: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows-result-0.4.1: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows-strings-0.5.1: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows-sys-0.52.0: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows-sys-0.59.0: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows-sys-0.60.2: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows-sys-0.61.2: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows-targets-0.52.6: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows-targets-0.53.5: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows-threading-0.2.1: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows_aarch64_gnullvm-0.52.6: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows_aarch64_gnullvm-0.53.1: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows_aarch64_msvc-0.52.6: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows_aarch64_msvc-0.53.1: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows_i686_gnu-0.52.6: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows_i686_gnu-0.53.1: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows_i686_gnullvm-0.52.6: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows_i686_gnullvm-0.53.1: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows_i686_msvc-0.52.6: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows_i686_msvc-0.53.1: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows_x86_64_gnu-0.52.6: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows_x86_64_gnu-0.53.1: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows_x86_64_gnullvm-0.52.6: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows_x86_64_gnullvm-0.53.1: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows_x86_64_msvc-0.52.6: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+windows_x86_64_msvc-0.53.1: MIT OR Apache-2.0 | https://github.com/microsoft/windows-rs | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+winit-0.30.13: Apache-2.0 | https://github.com/rust-windowing/winit | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+winnow-1.0.4: MIT | https://github.com/winnow-rs/winnow | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+winresource-0.1.31: MIT | https://github.com/BenjaminRi/winresource | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+wit-bindgen-0.57.1: Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT | https://github.com/bytecodealliance/wit-bindgen | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+x11-dl-2.21.0: MIT | https://github.com/AltF02/x11-rs.git | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+x11rb-0.13.2: MIT OR Apache-2.0 | https://github.com/psychon/x11rb | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+x11rb-protocol-0.13.2: MIT OR Apache-2.0 | https://github.com/psychon/x11rb | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+x25519-dalek-2.0.1: BSD-3-Clause | https://github.com/dalek-cryptography/curve25519-dalek/tree/main/x25519-dalek | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+xcursor-0.3.11: MIT | https://github.com/esposm03/xcursor-rs | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+xkbcommon-dl-0.4.2: MIT | https://github.com/rust-windowing/xkbcommon-dl | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+xkeysym-0.2.1: MIT OR Apache-2.0 OR Zlib | https://github.com/notgull/xkeysym | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+xml-rs-0.8.29: MIT | https://github.com/kornelski/xml-rs | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+y4m-0.8.0: MIT | https://github.com/image-rs/y4m.git | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+yoke-0.7.5: Unicode-3.0 | https://github.com/unicode-org/icu4x | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+yoke-0.8.3: Unicode-3.0 | https://github.com/unicode-org/icu4x | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+yoke-derive-0.7.5: Unicode-3.0 | https://github.com/unicode-org/icu4x | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+yoke-derive-0.8.4: Unicode-3.0 | https://github.com/unicode-org/icu4x | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+zbus-5.19.0: MIT | https://github.com/z-galaxy/zbus/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+zbus-lockstep-0.5.2: MIT | https://github.com/luukvanderduim/zbus-lockstep | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+zbus-lockstep-macros-0.5.2: MIT | https://github.com/luukvanderduim/zbus-lockstep | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+zbus_macros-5.19.0: MIT | https://github.com/z-galaxy/zbus/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+zbus_names-4.3.4: MIT | https://github.com/z-galaxy/zbus/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+zbus_xml-5.2.1: MIT | https://github.com/z-galaxy/zbus/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+zcheapstr-1.1.0: MIT | https://github.com/z-galaxy/zcheapstr/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+zerocopy-0.8.59: BSD-2-Clause OR Apache-2.0 OR MIT | https://github.com/google/zerocopy | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+zerocopy-derive-0.8.59: BSD-2-Clause OR Apache-2.0 OR MIT | https://github.com/google/zerocopy | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+zerofrom-0.1.8: Unicode-3.0 | https://github.com/unicode-org/icu4x | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+zerofrom-derive-0.1.8: Unicode-3.0 | https://github.com/unicode-org/icu4x | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+zeroize-1.9.1: Apache-2.0 OR MIT | https://github.com/RustCrypto/utils | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+zeroize_derive-1.5.0: Apache-2.0 OR MIT | https://github.com/RustCrypto/utils | 2 fichier(s) inclus dans le paquet source, 2 éléments conservés
+zip-7.2.0: MIT | https://github.com/zip-rs/zip2.git | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+zlib-rs-0.6.8: Zlib | https://github.com/trifectatechfoundation/zlib-rs | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+zmij-1.0.23: MIT | https://github.com/dtolnay/zmij | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+zune-core-0.5.3: MIT OR Apache-2.0 OR Zlib | https://github.com/etemesi254/zune-image | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+zune-jpeg-0.5.15: MIT OR Apache-2.0 OR Zlib | https://github.com/etemesi254/zune-image/tree/dev/crates/zune-jpeg | 3 fichier(s) inclus dans le paquet source, 3 éléments conservés
+zvariant-5.15.0: MIT | https://github.com/z-galaxy/zbus/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+zvariant_derive-5.15.0: MIT | https://github.com/z-galaxy/zbus/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés
+zvariant_utils-4.2.0: MIT | https://github.com/z-galaxy/zbus/ | 1 fichier(s) inclus dans le paquet source, 1 éléments conservés

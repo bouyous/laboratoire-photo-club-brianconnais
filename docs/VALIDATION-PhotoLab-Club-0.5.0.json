@@ -1,0 +1,86 @@
+{
+  "distribution": "PhotoLab Club Briançonnais 0.5.0",
+  "date": "2026-10-13",
+  "target": "Windows 10/11 x64",
+  "nativeTestsPassed": 1073,
+  "nativeChecks": [
+    "fmt",
+    "clippy",
+    "test",
+    "parity",
+    "layers",
+    "assets",
+    "wasm"
+  ],
+  "installedApplication": {
+    "firstLaunchFrench": true,
+    "startsWithoutDemo": true,
+    "persistentLibrary": true,
+    "imports": [
+      "JPEG",
+      "float32 TIFF"
+    ],
+    "photosAfterReopen": 5,
+    "albumPreserved": true,
+    "ratingsPreserved": true,
+    "developPreserved": true,
+    "jpegExport": true,
+    "originalsUnchanged": true,
+    "installationUnchanged": true,
+    "denoise": true,
+    "inpaint": true,
+    "cancel": true,
+    "modelsIncluded": true,
+    "pythonNotRequired": true,
+    "workingDirectoryIndependent": true,
+    "pathsWithAccents": true,
+    "medianUiUpdateMs": 0.838623046875,
+    "computerCount": 1,
+    "gpuCompute": "disabled; AI CPU fallback/auto",
+    "exeSha256": "f3f40532b340a21b1f4b1a561dec1cefb70d361033759e599197305233f5c960"
+  },
+  "uninstallation": {
+    "success": true,
+    "personalFilesPreserved": 38,
+    "photosAndLibraryPreserved": true,
+    "appRemoved": true,
+    "exitCode": 0
+  },
+  "frozenCPUInference": {
+    "denoise": {
+      "seconds": 18.468,
+      "sourceUnchanged": true,
+      "dtype": "float32",
+      "shape": [
+        256,
+        320,
+        3
+      ],
+      "noExternalPython": true,
+      "provider": "CPUExecutionProvider",
+      "noisyMSE": 0.0012280818773433566,
+      "denoisedMSE": 3.547953747329302e-05
+    },
+    "inpaint": {
+      "seconds": 15.484,
+      "sourceUnchanged": true,
+      "dtype": "float32",
+      "shape": [
+        256,
+        320,
+        3
+      ],
+      "noExternalPython": true,
+      "provider": "CPUExecutionProvider",
+      "unmaskedUnchanged": true,
+      "centerRGB": [
+        0.33880817890167236,
+        0.33627864718437195,
+        0.3571679890155792
+      ]
+    }
+  },
+  "scope": "One Windows computer; no clean Windows VM or multi-hardware certification.",
+  "sensorDust": "Review only; user confirms selected proposals; originals preserved.",
+  "rawLimit": "Some compressed Nikon NEF variants use the embedded JPEG instead of full RAW data."
+}

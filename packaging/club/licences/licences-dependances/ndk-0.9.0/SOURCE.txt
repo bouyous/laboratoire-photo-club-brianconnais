@@ -1,0 +1,3 @@
+Licence upstream de rust-mobile/ndk, consultée le 9 octobre 2026.
+https://github.com/rust-mobile/ndk
+Le paquet de compilation est identifié dans DEPENDANCES.txt.
