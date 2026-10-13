@@ -44,15 +44,31 @@ jobs:
           targets: wasm32-unknown-unknown
           components: clippy, rustfmt
       - uses: actions/setup-python@v5
+        id: python
         with:
           python-version: '3.12'
+      - uses: actions/cache/restore@v4
+        id: ai-cache
+        with:
+          path: laboratoire/.venv-mac
+          key: macos-ai-${{ matrix.arch }}-${{ steps.python.outputs.python-version }}-${{ hashFiles('laboratoire/ai/requirements-macos-*.txt', 'laboratoire/packaging/club/macos/build-opencv.sh', 'laboratoire/packaging/club/macos/install_deps.py') }}
       - name: Construire le moteur Python pour Mac
+        if: steps.ai-cache.outputs.cache-hit != 'true'
         working-directory: laboratoire
         run: |
           python -m venv .venv-mac
           source .venv-mac/bin/activate
           python packaging/club/macos/install_deps.py ${{ matrix.arch }}
           bash packaging/club/macos/build-opencv.sh
+      - uses: actions/cache/save@v4
+        if: steps.ai-cache.outputs.cache-hit != 'true'
+        with:
+          path: laboratoire/.venv-mac
+          key: ${{ steps.ai-cache.outputs.cache-primary-key }}
+      - name: Geler le moteur Python autonome
+        working-directory: laboratoire
+        run: |
+          source .venv-mac/bin/activate
           cd ai
           python -m PyInstaller --noconfirm --clean --distpath dist --workpath build PhotoLabAI.spec
       - name: Contrôles Rust complets
